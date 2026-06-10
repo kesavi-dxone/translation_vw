@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="text_tool_version">HCP3_Clu45_AudiApps_v92987</string>
+    <string name="about_us_content">Volkswagen Insurance Brokers GmbH\nGifhorner Straße 57\n38112\nBraunschweig\nGermany\n\nPhone: +49 (0)531 / 212–3888\nEmail: meinfahrstil@vwfs.com\n\nAuthorized representatives (Managing Directors): Thorsten Krüger, Armin Stückemann\n\nRegistered Seat: Braunschweig\nRegistration Court: Amtsgericht Braunschweig\nCommercial Register No.: 100038\nExecutive Director: Thorsten Krüger, Armin Stückemann\nConcession Sec. 34d Abs. 1 German Trade, Commerce and Industry Regulation Act (GewO) (Insurance Brokerage)\nissued by Chamber of Industry and Commerce (IHK) Braunschweig, Brabandtstraße 11, 38100 Braunschweig\nInsurance Broking Register Number: D–RA0O–8H1NW–91\nwww.vermittlerregister.info\n\nCode of Professional Conduct:\n– Sec. 34d German Trade, Commerce and Industry Regulation Act (GewO)\n– Sec. 59–68 German Insurance Contract Act (VVG)\n– German Insurance Broking Regulation (VersVermV)\n\nPrivacy Policy: https://www.vwfs.de/metaseiten/datenschutz.html.\n\nImportant Note: The above information is automatically added to this e-mail. This addition does not constitute a\nrepresentation that the content of this e-mail is legally relevant and/or is intended to be legally binding upon Volkswagen Insurance Brokers GmbH.</string>
+    <string name="about_us_title">About us</string>
+    <string name="advertisement_consent_screen_button_accept">Activate marketing</string>
+    <string name="advertisement_consent_screen_button_revoke_consent">Deactivate marketing</string>
+    <string name="advertisement_consent_screen_text">As described in Section 2.2 of the General Terms of Use  of the \"My Driving Style\" app and in Section 6 of our data protection notes, we would like to inform you about offers for selected services and products from us, our partners and other third parties (e.g. cooperation partners and companies from the following industries: banking, leasing, Insurance and Mobility).\n\nBy deactivating Marketing, you object to the future display of direct marketing in the \"My Driving Style\" app. If you would like to receive offers for selected services and products from us, our partners, and other third parties (see section 6 of the data protection notes) that are customized for you, you can change this setting at any time</string>
+    <string name="advertisement_consent_screen_title">Marketing preferences</string>
+    <string name="advertisement_consent_screen_toast_accepted">Marketing activated</string>
+    <string name="advertisement_consent_screen_toast_declined">Marketing deactivated</string>
+    <string name="appUpdateScreen_close">Close</string>
+    <string name="appUpdateScreen_update_app_btn">Update</string>
+    <string name="app_error_description">The app received a critical error. To continue using it, please open the settings and clear the app storage.</string>
+    <string name="app_name">My Driving Style</string>
+    <string name="app_update_additional_info">If the update isn\'t available yet, please try again later.</string>
+    <string name="app_update_mandatory_text">To continue using the My Driving Style app, please install the latest version from the Store.</string>
+    <string name="app_update_mandatory_title">Update required</string>
+    <string name="app_update_text">A new version of the My Driving Style app is now available in the store. You\'re welcome to continue using the current version, but we recommend updating to the latest version for the best experience and improved security.</string>
+    <string name="app_update_title">A new software version is available.</string>
+    <string name="challenge_braking_bad_habits">Braking Bad Habits</string>
+    <string name="challenge_braking_bad_habits_description">No hard braking until two consecutive trips of at least 15 minutes each have been completed</string>
+    <string name="challenge_break_it_down">Brake it Down</string>
+    <string name="challenge_break_it_down_description">Avoid hard braking in one trip of at least 20 minutes.</string>
+    <string name="challenge_comfortable_joe">Comfortable Joe</string>
+    <string name="challenge_comfortable_joe_description">Drive without hard braking or hard acceleration for 45 minutes</string>
+    <string name="challenge_completed_during_last_trip">Completed during last trip</string>
+    <string name="challenge_completed_on">%1$s ✓</string>
+    <string name="challenge_consistency_king">Consistency King</string>
+    <string name="challenge_consistency_king_description">Score above 90 for the past 10 trips of at least 10 minutes.</string>
+    <string name="challenge_gentle_glide">Gentle Glide</string>
+    <string name="challenge_gentle_glide_description">Complete a 30-minute trip with no severe events</string>
+    <string name="challenge_good_effort">Good Effort</string>
+    <string name="challenge_good_effort_description">Complete 40 consecutive trips with a score above 80 regardless of the trip duration.</string>
+    <string name="challenge_last_completed_on">Last completed on</string>
+    <string name="challenge_not_completed">Not completed</string>
+    <string name="challenge_progress">%1$s%% Completed</string>
+    <string name="challenge_rock_steady">Rock Steady</string>
+    <string name="challenge_rock_steady_description">Drive without any harsh cornering events for 60 minutes</string>
+    <string name="consentScreen_accept">Accept</string>
+    <string name="consentScreen_decline">Decline</string>
+    <string name="consentScreen_error">Network error\nTap here to retry.</string>
+    <string name="consentScreen_not_now">Not now</string>
+    <string name="consentScreen_title">Terms of use</string>
+    <string name="consent_dialog_title">Terms of use</string>
+    <string name="consent_download_popup_content">Scan the QR code on the right with your phone to download the terms of use.</string>
+    <string name="consent_download_popup_title">Download terms of use</string>
+    <string name="consent_notification_message">Please open the app to keep using it.</string>
+    <string name="consent_notification_title">Action required:</string>
+    <string name="consent_screen_close_btn">Close app</string>
+    <string name="consent_screen_error_message_first">A network error occurred. Please try again.</string>
+    <string name="consent_screen_error_message_second">A network error occurred. Error code: %1$s.\nIf the problem continues, please contact customer support and provide this code.</string>
+    <string name="consent_screen_new_version_mandatory_title">Action required: Terms of use update</string>
+    <string name="consent_screen_new_version_optional_title">Updated terms of use available</string>
+    <string name="consent_screen_retry_bnt">Retry</string>
+    <string name="consent_screen_revoke_consent">Revoke consent</string>
+    <string name="download_button">Download</string>
+    <string name="driver_event_hard_acceleration">Hard Acceleration</string>
+    <string name="driver_event_hard_acceleration_severe">Severe Acceleration</string>
+    <string name="driver_event_hard_braking">Hard Braking</string>
+    <string name="driver_event_hard_braking_severe">Severe Braking</string>
+    <string name="driver_event_harsh_cornering">Harsh Cornering</string>
+    <string name="driver_event_harsh_cornering_severe">Severe Cornering</string>
+    <string name="driver_event_list_item_hard_acceleration">Hard Acceleration</string>
+    <string name="driver_event_list_item_hard_acceleration_severe">Severe Acceleration</string>
+    <string name="driver_event_list_item_hard_braking">Hard Braking</string>
+    <string name="driver_event_list_item_hard_braking_severe">Severe Braking</string>
+    <string name="driver_event_list_item_harsh_cornering">Harsh Cornering</string>
+    <string name="driver_event_list_item_harsh_cornering_severe">Severe Cornering</string>
+    <string name="driver_event_list_item_seat_belt_unbuckled">Seatbelt Unbuckled</string>
+    <string name="driver_event_list_item_unknown">Unknown event</string>
+    <string name="driver_event_seat_belt_unbuckled">Seatbelt Unbuckled</string>
+    <string name="driver_event_unknown">Unknown event</string>
+    <string name="event_details_duration">Duration</string>
+    <string name="event_details_speed">Speed</string>
+    <string name="event_details_time">Time</string>
+    <string name="home_screen_current_rank">Current Rank</string>
+    <string name="home_screen_driver_score">Score</string>
+    <string name="home_screen_new_message">Offer available</string>
+    <string name="home_screen_no_messages">Not available</string>
+    <string name="home_screen_notifications">Offers</string>
+    <string name="home_screen_trophies">Trophies</string>
+    <string name="initial_consent_clickable_text">terms of use</string>
+    <string name="initial_consent_first_paragraph">I hereby accept the aforementioned terms of use for using the My Driving Style app</string>
+    <string name="initial_consent_popup_title">Terms of use</string>
+    <string name="initial_consent_second_paragraph">I am aware that my right to withdraw expires when the contracted partner begins executing the contract.</string>
+    <string name="initial_consent_title">Consent provided for using the app</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_failed">Unable to download document.</string>
+    <string name="locationPermissionScreen_explanation">The My Driving Style app requires access to your vehicle\'s GPS data to accurately analyse your driving behaviour and to provide key features such as challenges, driver analytics and other gamification elements. This data is essential for ensuring the app functions as intended. Without location permission, these features cannot be enabled and the app will not be usable.\n\nTo proceed, please grant permission by following the path:\n\nOpen settings &gt; Permissions &gt; Location &gt; Allow all the time</string>
+    <string name="notificationPermissionScreen_explanation">The My Driving Style app requires access to notifications in order to keep you informed about important updates, relevant changes and exclusive offers. Enabling notifications ensures that the My Driving Style app works as intended and that you don’t miss out on key information related to your driving analytics and app features. Without this permission, you may not receive essential alerts.\n\nTo proceed, please grant permission by following the path:\n\nGrant permission &gt; Allow</string>
+    <string name="notificationPermissionScreen_explanation2">The My Driving Style app requires access to notifications in order to keep you informed about important updates, relevant changes and exclusive offers. Enabling notifications ensures that the My Driving Style app works as intended and that you don’t miss out on key information related to your driving analytics and app features. Without this permission, you may not receive essential alerts.\n\nTo proceed, please grant permission by following the path:\n\nOpen settings &gt; Activate notification toggle</string>
+    <string name="notificationScreen_please_grant_location_permissions_to_ensure_app_functionality">Please grant location permissions to ensure app functionality.</string>
+    <string name="notificationScreen_settings">Settings</string>
+    <string name="notification_screen_dont_show_again">Close</string>
+    <string name="notification_screen_view_later">View later</string>
+    <string name="offer_message">Have you heard about Audi insurance? Scan the QR code and learn more online, or get more information by phone. Service hotline:\n%1$s\n%2$s</string>
+    <string name="offer_title">You are a great driver</string>
+    <string name="permissionsScreen_accept">Grant permission</string>
+    <string name="permissionsScreen_exit_app">Close app</string>
+    <string name="permissionsScreen_open_settings">Open settings</string>
+    <string name="permissionsScreen_title">Permission required</string>
+    <string name="personalized_offer_message">This insurance might be of interest.</string>
+    <string name="privacy_policy_popup_content">Scan the QR code on the right with your phone to download the data protection notes.</string>
+    <string name="privacy_policy_popup_title">Download data protection notes</string>
+    <string name="rank_attentive_chauffeur">Attentive Chauffeur</string>
+    <string name="rank_attentive_chauffeur_description">The Attentive Chauffeur is a diligent and safety-conscious driver. Their commitment to safety makes them a reliable choice for any trip.</string>
+    <string name="rank_attentive_chauffeur_description_small_height">The Attentive Chauffeur is a diligent and safety-conscious driver. Their commitment to safety makes them a reliable choice for any trip.</string>
+    <string name="rank_casual_driver">Casual Driver</string>
+    <string name="rank_casual_driver_description">The Casual Driver is a laid-back traveller, enjoying the journey while focusing on getting to the destination in a timely manner.</string>
+    <string name="rank_casual_driver_description_small_height">The Casual Driver is a laid-back traveller, enjoying the journey while focusing on getting to the destination in a timely manner.</string>
+    <string name="rank_comfortable_navigator">Comfortable Navigator</string>
+    <string name="rank_comfortable_navigator_description">A Comfortable Navigator is a driver who ensures passengers are at ease throughout the ride.</string>
+    <string name="rank_comfortable_navigator_description_small_height">A Comfortable Navigator is a driver who ensures passengers are at ease throughout the ride.</string>
+    <string name="rank_cool_cruiser">Cool Cruiser</string>
+    <string name="rank_cool_cruiser_description">Cool Cruisers bring a sense of style to the road. They handle their vehicle with grace and finesse, making driving look effortless.</string>
+    <string name="rank_cool_cruiser_description_small_height">Cool Cruisers bring a sense of style to the road. They handle their vehicle with grace and finesse, making driving look effortless.</string>
+    <string name="rank_description">Description</string>
+    <string name="rank_green_roller">Green Roller</string>
+    <string name="rank_green_roller_description">The Green Roller is a driver with a gentle touch on the wheel, skillfully navigating the road with a focus on precision and safety.</string>
+    <string name="rank_green_roller_description_small_height">The Green Roller is a driver with a gentle touch on the wheel, skillfully navigating the road with a focus on precision and safety.</string>
+    <string name="rank_not_available_while_driving">For your safety, limited operation while driving.</string>
+    <string name="rank_road_champion">Road Champion</string>
+    <string name="rank_road_champion_description">The Road Champion is the pinnacle of driving excellence. They conquer the road with unwavering skill and precision.</string>
+    <string name="rank_screen_rank">Rank</string>
+    <string name="rank_smooth_operator">Smooth Operator</string>
+    <string name="rank_smooth_operator_description">A Smooth Operator is the master of a fluid and seamless driving experience, ensuring a smooth and comfortable ride for all.</string>
+    <string name="rank_smooth_operator_description_small_height">A Smooth Operator is the master of a fluid and seamless driving experience, ensuring a smooth and comfortable ride for all.</string>
+    <string name="revoke_consent_popup_cancel">Cancel</string>
+    <string name="revoke_consent_popup_content">Revoking your consent will disable the functionality of the My Driving Style app, including the collection and analysis of your driving data. Are you sure you want to proceed with revoking your consent\?</string>
+    <string name="revoke_consent_popup_title">Confirmation</string>
+    <string name="score_service_notification_content">The My Driving Style app is currently active.</string>
+    <string name="score_service_notification_title">My Driving Style</string>
+    <string name="settingsScreen_title">Settings</string>
+    <string name="settings_advertisement_consent">Marketing preferences</string>
+    <string name="settings_consent">Terms of use</string>
+    <string name="settings_imprint">About us</string>
+    <string name="settings_open_source_disclaimer">Open Source Software Notice</string>
+    <string name="settings_open_source_disclaimer_not_available_while_driving">For your safety, limited operation while driving.</string>
+    <string name="settings_open_source_disclaimer_title">Open Source Software Notice</string>
+    <string name="settings_privacy_policy">Data protection notes</string>
+    <string name="settings_software_version">Software version %1$s</string>
+    <string name="system_notification_new_offer_available_message">Tap here to view details.</string>
+    <string name="system_notification_new_offer_available_title">New driving statistic available</string>
+    <string name="tab_title_challenges">Challenges</string>
+    <string name="tab_title_overview">Overview</string>
+    <string name="tab_title_rank">Rank</string>
+    <string name="tab_title_trips">Trips</string>
+    <string name="text_blocking">For your safety, limited operation while driving.</string>
+    <string name="trip_details_screen_average_speed">Average speed</string>
+    <string name="trip_details_screen_end">End</string>
+    <string name="trip_details_screen_list_title_trip_events">Trip events</string>
+    <string name="trip_details_screen_max_g_force">Max g-force</string>
+    <string name="trip_details_screen_start">Start</string>
+    <string name="trip_details_screen_trip_distance">Trip distance</string>
+    <string name="trip_details_screen_trip_duration">Duration</string>
+    <string name="trip_details_screen_trip_score">Score</string>
+    <string name="trip_title_afternoon_round_trip">Afternoon round trip at %1$s</string>
+    <string name="trip_title_afternoon_trip">Afternoon trip at %1$s</string>
+    <string name="trip_title_early_afternoon_round_trip">Early afternoon round trip at %1$s</string>
+    <string name="trip_title_early_afternoon_trip">Early afternoon trip at %1$s</string>
+    <string name="trip_title_early_morning_round_trip">Early morning round trip at %1$s</string>
+    <string name="trip_title_early_morning_trip">Early morning trip at %1$s</string>
+    <string name="trip_title_evening_round_trip">Evening round trip at %1$s</string>
+    <string name="trip_title_evening_trip">Evening trip at %1$s</string>
+    <string name="trip_title_late_afternoon_round_trip">Late afternoon round trip at %1$s</string>
+    <string name="trip_title_late_afternoon_trip">Late afternoon trip at %1$s</string>
+    <string name="trip_title_late_evening_round_trip">Late evening round trip at %1$s</string>
+    <string name="trip_title_late_evening_trip">Late evening trip at %1$s</string>
+    <string name="trip_title_late_morning_round_trip">Late morning round trip at %1$s</string>
+    <string name="trip_title_late_morning_trip">Late morning trip at %1$s</string>
+    <string name="trip_title_long_afternoon_round_trip">Long afternoon round trip at %1$s</string>
+    <string name="trip_title_long_afternoon_trip">Long afternoon trip at %1$s</string>
+    <string name="trip_title_long_early_afternoon_round_trip">Long early afternoon round trip at %1$s</string>
+    <string name="trip_title_long_early_afternoon_trip">Long early afternoon trip at %1$s</string>
+    <string name="trip_title_long_early_morning_round_trip">Long early morning round trip at %1$s</string>
+    <string name="trip_title_long_early_morning_trip">Long early morning trip at %1$s</string>
+    <string name="trip_title_long_evening_round_trip">Long evening round trip at %1$s</string>
+    <string name="trip_title_long_evening_trip">Long evening trip at %1$s</string>
+    <string name="trip_title_long_late_afternoon_round_trip">Long late afternoon round trip at %1$s</string>
+    <string name="trip_title_long_late_afternoon_trip">Long late afternoon trip at %1$s</string>
+    <string name="trip_title_long_late_evening_round_trip">Long late evening round trip at %1$s</string>
+    <string name="trip_title_long_late_evening_trip">Long late evening trip at %1$s</string>
+    <string name="trip_title_long_late_morning_round_trip">Long late morning round trip at %1$s</string>
+    <string name="trip_title_long_late_morning_trip">Long late morning trip at %1$s</string>
+    <string name="trip_title_long_morning_round_trip">Long morning round trip at %1$s</string>
+    <string name="trip_title_long_morning_trip">Long morning trip at %1$s</string>
+    <string name="trip_title_long_night_round_trip">Long night round trip at %1$s</string>
+    <string name="trip_title_long_night_trip">Long night trip at %1$s</string>
+    <string name="trip_title_morning_round_trip">Morning round trip at %1$s</string>
+    <string name="trip_title_morning_trip">Morning trip at %1$s</string>
+    <string name="trip_title_night_round_trip">Night round trip at %1$s</string>
+    <string name="trip_title_night_trip">Night trip at %1$s</string>
+    <string name="trip_title_short_afternoon_round_trip">Short afternoon round trip at %1$s</string>
+    <string name="trip_title_short_afternoon_trip">Short afternoon trip at %1$s</string>
+    <string name="trip_title_short_early_afternoon_round_trip">Short early afternoon round trip at %1$s</string>
+    <string name="trip_title_short_early_afternoon_trip">Short early afternoon trip at %1$s</string>
+    <string name="trip_title_short_early_morning_round_trip">Short early morning round trip at %1$s</string>
+    <string name="trip_title_short_early_morning_trip">Short early morning trip at %1$s</string>
+    <string name="trip_title_short_evening_round_trip">Short evening round trip at %1$s</string>
+    <string name="trip_title_short_evening_trip">Short evening trip at %1$s</string>
+    <string name="trip_title_short_late_afternoon_round_trip">Short late afternoon round trip at %1$s</string>
+    <string name="trip_title_short_late_afternoon_trip">Short late afternoon trip at %1$s</string>
+    <string name="trip_title_short_late_evening_round_trip">Short late evening round trip at %1$s</string>
+    <string name="trip_title_short_late_evening_trip">Short late evening trip at %1$s</string>
+    <string name="trip_title_short_late_morning_round_trip">Short late morning round trip at %1$s</string>
+    <string name="trip_title_short_late_morning_trip">Short late morning trip at %1$s</string>
+    <string name="trip_title_short_morning_round_trip">Short morning round trip at %1$s</string>
+    <string name="trip_title_short_morning_trip">Short morning trip at %1$s</string>
+    <string name="trip_title_short_night_round_trip">Short night round trip at %1$s</string>
+    <string name="trip_title_short_night_trip">Short night trip at %1$s</string>
+    <string name="trip_viz_info">The displayed GPS track is an abstract visualisation of your trip, based on your driving behaviour, coordinates, and the time. It shows the course of your trip and when the event occurred based on the time and distance driven.</string>
+    <string name="trip_viz_title">Trip visualisation</string>
+    <string name="trips_screen_empty_trip_list">We are currently completing the necessary setup for you in the background.\nThis process may take some time and may involve multiple trips.\nWe appreciate your patience.</string>
+    <string name="trips_screen_list_entry_details">%1$s events - %2$s km - %3$s</string>
+    <string name="trips_screen_list_entry_details_no_events">No events - %1$s</string>
+    <string name="trips_screen_list_title_less_than_seven_days_ago">Less than seven days ago</string>
+    <string name="trips_screen_list_title_more_than_four_weeks_ago">More than four weeks ago</string>
+    <string name="trips_screen_list_title_one_to_four_weeks_ago">One to four weeks ago</string>
+    <string name="user_first_second_name">%1$s\n%2$s</string>
+    <string name="users_name">%1$s\'s</string>
+    <string name="you_had_a_perfect_trip">Great job! You had a perfect trip and didn\'t trigger any events. Keep it up!</string>
+    <string name="event_details_duration_value">seconds</string>
+    <string name="event_details_speed_value">%d km/h</string>
+    <string name="date_picker_select" translatable="false">Select</string>
+    <string name="date_picker_title_start" translatable="false">Select start date</string>
+    <string name="date_picker_title_end" translatable="false">Select end date</string>
+
+<!--    Not translated strings -->
+    <string name="safety_cinema_title" translatable="false">Safety Cinema</string>
+    <string name="safety_cinema_qr_title" translatable="false">Scan to watch video</string>
+    <string name="safety_cinema_qr_tip" translatable="false">Scan this QR code with your mobile device to watch the safety video</string>
+    <string name="safety_cinema_watched_button" translatable="false">I watched the video</string>
+    <string name="safety_cinema_quiz_title" translatable="false">Test your knowledge</string>
+    <string name="safety_cinema_back_to_qr" translatable="false">Back to QR code</string>
+    <string name="safety_cinema_submit_answer" translatable="false">Submit answer</string>
+    <string name="safety_cinema_try_again" translatable="false">Try again</string>
+    <string name="safety_cinema_correct_answer" translatable="false">Correct! Well done.</string>
+    <string name="safety_cinema_incorrect_answer" translatable="false">Incorrect. Please try again.</string>
+    <string name="safety_cinema_select_answer" translatable="false">Please select an answer.</string>
+    <string name="safety_cinema_quiz_success_title" translatable="false">Correct!</string>
+    <string name="safety_cinema_quiz_success_message" translatable="false">Excellent work! You\'ve successfully answered all the questions. Your knowledge of safety practices is impressive. Keep up the great driving!</string>
+    <string name="safety_cinema_quiz_failure_title" translatable="false">Incorrect</string>
+    <string name="safety_cinema_quiz_failure_message" translatable="false">That\'s not quite right, but don\'t worry! Learning is a process. Would you like to try again or review the video?</string>
+    <string name="safety_cinema_no_content" translatable="false">Here is nothing yet</string>
+    <string name="safety_cinema_qr_tip_completed" translatable="false">Congratulations! You have completed quiz already! Scan QR code to watch the video again.</string>
+    <string name="safety_cinema_retake_quiz_button" translatable="false">Retake quiz</string>
+    <string name="driving_statistics_title" translatable="false">Driving Statistics</string>
+    <string name="driving_statistics_placeholder" translatable="false">Your driving statistics will be displayed here.</string>
+    <string name="driving_statistics_total_distance" translatable="false">Total distance driven</string>
+    <string name="driving_statistics_total_duration" translatable="false">Total time driven</string>
+    <string name="driving_statistics_average_speed" translatable="false">Average speed</string>
+    <string name="driving_statistics_unit_km" translatable="false">km</string>
+    <string name="driving_statistics_unit_hours" translatable="false">h</string>
+    <string name="driving_statistics_unit_minutes" translatable="false">m</string>
+    <string name="driving_statistics_unit_kmh" translatable="false">km/h</string>
+    <string name="driving_statistics_total_trips" translatable="false">Total amount of trips</string>
+    <string name="driving_statistics_perfect_trips" translatable="false">Perfect trips</string>
+    <string name="driving_statistics_average_trip_distance" translatable="false">Average trip distance</string>
+    <string name="driving_statistics_longest_trip" translatable="false">Longest trip</string>
+    <string name="driving_statistics_last_trip_distance" translatable="false">Last trip distance</string>
+    <string name="driving_statistics_score_details" translatable="false">Score details</string>
+    <string name="driving_statistics_score_range_bad" translatable="false">0-40</string>
+    <string name="driving_statistics_score_range_medium" translatable="false">41-80</string>
+    <string name="driving_statistics_score_range_good" translatable="false">81-100</string>
+    <plurals name="driving_statistics_score_bad_trips" translatable="false">
+        <item quantity="one">Score %2$d-%3$d - %1$d trip</item>
+        <item quantity="other">Score %2$d-%3$d - %1$d trips</item>
+    </plurals>
+    <plurals name="driving_statistics_score_medium_trips" translatable="false">
+        <item quantity="one">Score %2$d-%3$d - %1$d trip</item>
+        <item quantity="other">Score %2$d-%3$d - %1$d trips</item>
+    </plurals>
+    <plurals name="driving_statistics_score_good_trips" translatable="false">
+        <item quantity="one">Score %2$d-%3$d - %1$d trip</item>
+        <item quantity="other">Score %2$d-%3$d - %1$d trips</item>
+    </plurals>
+    <plurals name="driving_statistics_score_bar_trips" translatable="false">
+        <item quantity="one">%d trip</item>
+        <item quantity="other">%d trips</item>
+    </plurals>
+    <string name="driving_statistics_total_events" translatable="false">Total amount of events triggered</string>
+    <string name="driving_statistics_acceleration" translatable="false">Acceleration</string>
+    <string name="driving_statistics_breaking" translatable="false">Breaking</string>
+    <string name="driving_statistics_cornering" translatable="false">Cornering</string>
+    <string name="driving_statistics_tab_overview" translatable="false">Overview</string>
+    <string name="driving_statistics_tab_details" translatable="false">Details</string>
+    <string name="driving_statistics_range_month" translatable="false">Month</string>
+    <string name="driving_statistics_range_year" translatable="false">Year</string>
+    <string name="driving_statistics_average_score" translatable="false">Average score</string>
+    <string name="driving_statistics_distance_driven" translatable="false">Distance driven</string>
+    <string name="driving_statistics_time_driven" translatable="false">Time driven</string>
+    <string name="insurance_screen_title" translatable="false">Insurance</string>
+    <string name="insurance_my_financial_services" translatable="false">My AUDI insurance</string>
+    <string name="insurance_store_info" translatable="false">Add your AUDI insurance information</string>
+    <string name="insurance_insurance_number_hint" translatable="false">Insurance number</string>
+    <string name="insurance_from_hint" translatable="false">Start date</string>
+    <string name="insurance_to_hint" translatable="false">End date</string>
+    <string name="insurance_insurance_details_header" translatable="false">Contact your AUDI insurance</string>
+    <string name="insurance_report_claim_label" translatable="false">Claim hotline (24 hours)</string>
+    <string name="insurance_customer_support_label" translatable="false">Customer support</string>
+    <string name="insurance_email_label" translatable="false">Email</string>
+    <string name="insurance_save" translatable="false">Save</string>
+    <string name="insurance_edit" translatable="false">Edit</string>
+    <string name="insurance_add" translatable="false">Add insurance</string>
+    <string name="tab_title_insurance" translatable="false">Insurance</string>
+    <string name="insurance_qr_code_header" translatable="false">Get Audi insurance</string>
+    <string name="insurance_qr_code_description" translatable="false">To explore your personal offer from AUDI insurance please follow this QR code</string>
+
+    <string name="trip_detail_g_force" translatable="false">g</string>
+    <string name="trip_detail_speed" translatable="false">km/h</string>
+    <string name="trip_detail_minutes" translatable="false">m</string>
+    <string name="trip_detail_hours" translatable="false">h </string>
+    <string name="trip_detail_distance" translatable="false">km</string>
+    <string name="trip_detail_event_distance" translatable="false">km</string>
+    <string name="statistic_no_data" translatable="false">No trips</string>
+    <string name="statistic_global" translatable="false">Global Statistics</string>
+    <string name="challenges_tab_active" translatable="false">Active</string>
+    <string name="challenges_tab_recommended" translatable="false">Recommended</string>
+    <string name="challenges_tab_all" translatable="false">All</string>
+    <string name="challenges_plus_trophies" translatable="false">+ %1$s</string>
+    <string name="challenges_button_start" translatable="false">Start</string>
+    <string name="challenges_button_restart" translatable="false">Restart</string>
+    <string name="challenges_minus_trophies" translatable="false">- %1$s</string>
+    <string name="challenges_challenge_state_failed" translatable="false">Failed</string>
+    <string name="challenges_challenge_state_in_progress" translatable="false">In progress</string>
+    <string name="challenges_challenge_state_completed" translatable="false">Completed</string>
+    <string name="challenges_season_overview" translatable="false">Season overview</string>
+    <string name="challenges_season_end" translatable="false">Season ends in</string>
+    <string name="challenges_season_trophies" translatable="false">Season trophies</string>
+    <string name="challenges_total_season_challenges" translatable="false">Total challenges completed in season</string>
+    <string name="challenges_overall" translatable="false">Overall</string>
+    <string name="challenges_overall_trophies" translatable="false">Overall trophies gained</string>
+    <string name="challenges_overall_challenges_completed" translatable="false">Overall challenges completed</string>
+    <string name="challenges_bonus_trophies" translatable="false">bonus</string>
+    <string name="challenges_no_active_challenges" translatable="false">No Active Challenges.\nStart your first challenge in the All or\nRecommended tab.</string>
+    <string name="challenges_no_trophies_available" translatable="false">Complete a few starter challenges in All tab to earn your first trophies and access exclusive seasonal challenges with higher rewards.</string>
+    <string name="driving_statistics_score_na" translatable="false">N/A</string>
+    <string name="challenge_info_spring_sprinter" translatable="false">Great job! You completed the challenge with an average score of 85 across all trips.</string>
+    <string name="challenge_info_night_rider" translatable="false">Unfortunately, you had 2 trips with scores below 70 during night hours. Try again to improve your night driving skills!</string>
+    <string name="challenge_info_safe_commuter" translatable="false">Congratulations! You completed the challenge with a total of 6 hours driven and no severe events.</string>
+    <string name="challenge_info_weekend_warrior" translatable="false">You completed 3 excellent trips on weekends, but 2 trips had scores below 80. Focus on maintaining excellent driving habits every weekend to complete this challenge!</string>
+    <string name="trips_screen_list_entry_details_second_version">%1$s events | ~ %2$s km | %3$s</string>
+    <string name="trip_detail_event_time_hours_and_mins">at %1$sh %2$s min</string>
+    <string name="trip_detail_event_time_mins">at %1$s min</string>
+
+    <string name="trip_details_remove_dialog_title" translatable="false">Remove Trip Details</string>
+    <string name="trip_details_remove_dialog_message" translatable="false">Do you want to remove details from trip title?</string>
+    <string name="generic_yes" translatable="false">Yes</string>
+    <string name="generic_no" translatable="false">No</string>
+</resources>
