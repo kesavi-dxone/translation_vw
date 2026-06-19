@@ -246,7 +246,6 @@
     <string name="safety_cinema_qr_tip_completed" translatable="false">Congratulations! You have completed quiz already! Scan QR code to watch the video again.</string>
     <string name="safety_cinema_retake_quiz_button" translatable="false">Retake quiz</string>
     <string name="driving_statistics_title" translatable="false">Driving Statistics</string>
-    <string name="driving_statistics_placeholder" translatable="false">Your driving statistics will be displayed here.</string>
     <string name="driving_statistics_total_distance" translatable="false">Total distance driven</string>
     <string name="driving_statistics_total_duration" translatable="false">Total time driven</string>
     <string name="driving_statistics_average_speed" translatable="false">Average speed</string>
@@ -256,25 +255,12 @@
     <string name="driving_statistics_unit_kmh" translatable="false">km/h</string>
     <string name="driving_statistics_total_trips" translatable="false">Total amount of trips</string>
     <string name="driving_statistics_perfect_trips" translatable="false">Perfect trips</string>
-    <string name="driving_statistics_average_trip_distance" translatable="false">Average trip distance</string>
     <string name="driving_statistics_longest_trip" translatable="false">Longest trip</string>
     <string name="driving_statistics_last_trip_distance" translatable="false">Last trip distance</string>
     <string name="driving_statistics_score_details" translatable="false">Score details</string>
     <string name="driving_statistics_score_range_bad" translatable="false">0-40</string>
     <string name="driving_statistics_score_range_medium" translatable="false">41-80</string>
     <string name="driving_statistics_score_range_good" translatable="false">81-100</string>
-    <plurals name="driving_statistics_score_bad_trips" translatable="false">
-        <item quantity="one">Score %2$d-%3$d - %1$d trip</item>
-        <item quantity="other">Score %2$d-%3$d - %1$d trips</item>
-    </plurals>
-    <plurals name="driving_statistics_score_medium_trips" translatable="false">
-        <item quantity="one">Score %2$d-%3$d - %1$d trip</item>
-        <item quantity="other">Score %2$d-%3$d - %1$d trips</item>
-    </plurals>
-    <plurals name="driving_statistics_score_good_trips" translatable="false">
-        <item quantity="one">Score %2$d-%3$d - %1$d trip</item>
-        <item quantity="other">Score %2$d-%3$d - %1$d trips</item>
-    </plurals>
     <plurals name="driving_statistics_score_bar_trips" translatable="false">
         <item quantity="one">%d trip</item>
         <item quantity="other">%d trips</item>
@@ -291,12 +277,12 @@
     <string name="driving_statistics_distance_driven" translatable="false">Distance driven</string>
     <string name="driving_statistics_time_driven" translatable="false">Time driven</string>
     <string name="insurance_screen_title" translatable="false">Insurance</string>
-    <string name="insurance_my_financial_services" translatable="false">My AUDI insurance</string>
-    <string name="insurance_store_info" translatable="false">Add your AUDI insurance information</string>
+    <string name="insurance_my_financial_services" translatable="false">My VW insurance</string>
+    <string name="insurance_store_info" translatable="false">Add your VW insurance information</string> <!--  todo: big screen size not reduced, but small reduced compared to previous heading -->
     <string name="insurance_insurance_number_hint" translatable="false">Insurance number</string>
     <string name="insurance_from_hint" translatable="false">Start date</string>
     <string name="insurance_to_hint" translatable="false">End date</string>
-    <string name="insurance_insurance_details_header" translatable="false">Contact your AUDI insurance</string>
+    <string name="insurance_insurance_details_header" translatable="false">Contact your VW insurance</string>
     <string name="insurance_report_claim_label" translatable="false">Claim hotline (24 hours)</string>
     <string name="insurance_customer_support_label" translatable="false">Customer support</string>
     <string name="insurance_email_label" translatable="false">Email</string>
@@ -304,8 +290,8 @@
     <string name="insurance_edit" translatable="false">Edit</string>
     <string name="insurance_add" translatable="false">Add insurance</string>
     <string name="tab_title_insurance" translatable="false">Insurance</string>
-    <string name="insurance_qr_code_header" translatable="false">Get Audi insurance</string>
-    <string name="insurance_qr_code_description" translatable="false">To explore your personal offer from AUDI insurance please follow this QR code</string>
+    <string name="insurance_qr_code_header" translatable="false">Get VW insurance</string>
+    <string name="insurance_qr_code_description" translatable="false">To explore your personal offer from VW insurance please follow this QR code</string> 
 
     <string name="trip_detail_g_force" translatable="false">g</string>
     <string name="trip_detail_speed" translatable="false">km/h</string>

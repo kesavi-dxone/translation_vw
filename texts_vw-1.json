@@ -4941,86 +4941,6 @@
 		]
 		},
 		{
-			"name": "insurance_qr_code_header",
-			"devText": "Get VW insurance",
-			"variants": [
-				{
-					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 384,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				},
-				{
-					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 433,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				}
-			]
-		},
-		{
-			"name": "insurance_insurance_details_header",
-			"devText": "Contact your VW Insurance",
-			"variants": [
-				{
-					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 550,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				},
-				{
-					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 700,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				}
-			]
-		},
-		{
-			"name": "insurance_my_financial_services",
-			"devText": "My VW insurance",
-			"variants": [
-				{
-					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 550,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				},
-				{
-					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 700,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				}
-			]
-		},
-		{
-			"name": "insurance_store_info",
-			"devText": "Add your VW insurance information",
-			"variants": [
-				{
-					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 550,
-					"maxLines": 2,
-					"fontName": "VW Text CarUI",
-					"fontSize": 40
-				},
-				{
-					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 700,
-					"maxLines": 2,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				}
-			]
-		},
-		{
 			"name": "insurance_qr_code_description",
 			"devText": "To explore your personal offer from VW insurance please follow this QR code",
 			"variants": [
@@ -5054,6 +4974,646 @@
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
 					"maxWidth": 1672,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				}
+			]
+		},
+		{
+			"name": "tab_title_insurance",
+			"devText": "Insurance",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 206,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 34
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 208,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 34
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_title",
+			"devText": "Driving Statistics",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 1352,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 1672,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_total_distance",
+			"devText": "Total distance driven",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 338,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 394,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_total_duration",
+			"devText": "Total time driven",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 724,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 836,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_average_speed",
+			"devText": "Average speed",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 338,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 394,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_unit_km",
+			"devText": "km",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_unit_hours",
+			"devText": "h",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_unit_minutes",
+			"devText": "m",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_unit_kmh",
+			"devText": "km/h",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 249,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_total_trips",
+			"devText": "Total amount of trips",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_perfect_trips",
+			"devText": "Perfect trips",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_longest_trip",
+			"devText": "Longest trip",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_last_trip_distance",
+			"devText": "Last trip distance",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_score_details",
+			"devText": "Score details",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 724,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 836,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_score_range_bad",
+			"devText": "0-40",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 100,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 100,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_score_range_medium",
+			"devText": "41-80",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 100,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 100,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_score_range_good",
+			"devText": "81-100",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 100,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 100,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_score_bar_trips_one",
+			"devText": "%d trip",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 551,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 20
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 663,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 20
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_score_bar_trips_other",
+			"devText": "%d trips",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 551,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 20
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 663,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 20
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_total_events",
+			"devText": "Total amount of events triggered",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 724,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 836,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_acceleration",
+			"devText": "Acceleration",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 225,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_breaking",
+			"devText": "Breaking",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 225,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_cornering",
+			"devText": "Cornering",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 225,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 305,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_tab_overview",
+			"devText": "Overview",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 210,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40 
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 210,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_tab_details",
+			"devText": "Details",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 210, 
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40 
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 210,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_range_month",
+			"devText": "Month",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 183,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 183,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_range_year",
+			"devText": "Year",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 225,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 225,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_average_score",
+			"devText": "Average score",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 580,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 580,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_distance_driven",
+			"devText": "Distance driven",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 278,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 278,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "driving_statistics_time_driven",
+			"devText": "Time driven",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 278,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 278,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
+				}
+			]
+		},
+		{
+			"name": "insurance_my_financial_services",
+			"devText": "My VW insurance",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 656,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 816, 
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				}
+			]
+		},
+		{
+			"name": "insurance_store_info",
+			"devText": "Add your VW insurance information",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 656, 
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 816,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 48
@@ -5121,19 +5681,39 @@
 			]
 		},
 		{
+			"name": "insurance_insurance_details_header",
+			"devText": "Contact your VW insurance",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 608,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 816, 
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				}
+			]
+		},
+		{
 			"name": "insurance_report_claim_label",
 			"devText": "Claim hotline (24 hours)",
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 634,
+					"maxWidth": 592,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 780,
+					"maxWidth": 800, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
@@ -5146,14 +5726,14 @@
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 276,
+					"maxWidth": 296,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 345,
+					"maxWidth": 400, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
@@ -5166,14 +5746,14 @@
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 276,
+					"maxWidth": 296,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 345,
+					"maxWidth": 400, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
@@ -5186,14 +5766,14 @@
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 380,
+					"maxWidth": 176,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 40
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 380,
+					"maxWidth": 176, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 40
@@ -5206,17 +5786,17 @@
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 380,
+					"maxWidth": 176,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
-					"fontSize": 40
+					"fontSize": 32
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 380,
+					"maxWidth": 400, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
-					"fontSize": 40
+					"fontSize": 32
 				}
 			]
 		},
@@ -5226,14 +5806,14 @@
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 380,
+					"maxWidth": 656,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 40
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 380,
+					"maxWidth": 720, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 40
@@ -5241,22 +5821,42 @@
 			]
 		},
 		{
-			"name": "tab_title_insurance",
-			"devText": "Insurance",
+			"name": "insurance_qr_code_header",
+			"devText": "Get VW insurance",
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 206,
+					"maxWidth": 608,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
-					"fontSize": 34
+					"fontSize": 48
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 208,
+					"maxWidth": 816, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
-					"fontSize": 34
+					"fontSize": 48
+				}
+			]
+		},
+		{
+			"name": "insurance_qr_code_description",
+			"devText": "To explore your personal offer from VW insurance please follow this QR code",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_0",
+					"maxWidth": 336,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 433, 
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
 				}
 			]
 		}
