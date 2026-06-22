@@ -5486,14 +5486,14 @@
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 183,
+					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 183,
+					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
@@ -5506,14 +5506,14 @@
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
-					"maxWidth": 225,
+					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 225,
+					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 32
@@ -5607,14 +5607,14 @@
 				{
 					"systemVariant": "VOLKSWAGEN_12_0",
 					"maxWidth": 656, 
-					"maxLines": 1,
+					"maxLines": 2,
 					"fontName": "VW Text CarUI",
 					"fontSize": 40
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
 					"maxWidth": 816,
-					"maxLines": 1,
+					"maxLines": 2,
 					"fontName": "VW Text CarUI",
 					"fontSize": 48
 				}

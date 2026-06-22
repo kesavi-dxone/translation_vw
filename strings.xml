@@ -278,7 +278,7 @@
     <string name="driving_statistics_time_driven" translatable="false">Time driven</string>
     <string name="insurance_screen_title" translatable="false">Insurance</string>
     <string name="insurance_my_financial_services" translatable="false">My VW insurance</string>
-    <string name="insurance_store_info" translatable="false">Add your VW insurance information</string> <!--  todo: big screen size not reduced, but small reduced compared to previous heading -->
+    <string name="insurance_store_info" translatable="false">Add your VW insurance information</string>
     <string name="insurance_insurance_number_hint" translatable="false">Insurance number</string>
     <string name="insurance_from_hint" translatable="false">Start date</string>
     <string name="insurance_to_hint" translatable="false">End date</string>
