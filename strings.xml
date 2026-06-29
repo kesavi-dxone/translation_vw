@@ -334,4 +334,6 @@
     <string name="trip_details_remove_dialog_message" translatable="false">Do you want to remove details from trip title?</string>
     <string name="generic_yes" translatable="false">Yes</string>
     <string name="generic_no" translatable="false">No</string>
+    <string name="home_screen_monthly_score" translatable="false">Monthly score</string>
+    <string name="overview_gauge_chart_empty_state_message" translatable="false">Start driving to\n get your score</string>
 </resources>

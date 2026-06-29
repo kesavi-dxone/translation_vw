@@ -21,7 +21,7 @@
 			"devText": "Volkswagen Insurance Brokers GmbH\\nGifhorner Straße 57\\n38112\\nBraunschweig\\nGermany\\n\\nPhone: +49 (0)531 / 212–3888\\nEmail: meinfahrstil@vwfs.com\\n\\nAuthorized representatives (Managing Directors): Thorsten Krüger, Armin Stückemann\\n\\nRegistered Seat: Braunschweig\\nRegistration Court: Amtsgericht Braunschweig\\nCommercial Register No.: 100038\\nExecutive Director: Thorsten Krüger, Armin Stückemann\\nConcession Sec. 34d Abs. 1 German Trade, Commerce and Industry Regulation Act (GewO) (Insurance Brokerage)\\nissued by Chamber of Industry and Commerce (IHK) Braunschweig, Brabandtstraße 11, 38100 Braunschweig\\nInsurance Broking Register Number: D–RA0O–8H1NW–91\\nwww.vermittlerregister.info\\n\\nCode of Professional Conduct:\\n– Sec. 34d German Trade, Commerce and Industry Regulation Act (GewO)\\n– Sec. 59–68 German Insurance Contract Act (VVG)\\n– German Insurance Broking Regulation (VersVermV)\\n\\nPrivacy Policy: https://www.vwfs.de/metaseiten/datenschutz.html.\\n\\nImportant Note: The above information is automatically added to this e-mail. This addition does not constitute a\\nrepresentation that the content of this e-mail is legally relevant and/or is intended to be legally binding upon Volkswagen Insurance Brokers GmbH.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1440,
 					"maxLines": 999,
 					"fontName": "VW Text CarUI",
@@ -41,7 +41,7 @@
 			"devText": "About us",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1432,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -61,7 +61,7 @@
 			"devText": "Activate marketing",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -81,7 +81,7 @@
 			"devText": "Deactivate marketing",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -101,7 +101,7 @@
 			"devText": "As described in Section 2.2 of the General Terms of Use  of the \\\"My Driving Style\\\" app and in Section 6 of our data protection notes, we would like to inform you about offers for selected services and products from us, our partners and other third parties (e.g. cooperation partners and companies from the following industries: banking, leasing, Insurance and Mobility).\\n\\nBy deactivating Marketing, you object to the future display of direct marketing in the \\\"My Driving Style\\\" app. If you would like to receive offers for selected services and products from us, our partners, and other third parties (see section 6 of the data protection notes) that are customized for you, you can change this setting at any time",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1592,
 					"maxLines": 999,
 					"fontName": "VW Text CarUI",
@@ -121,7 +121,7 @@
 			"devText": "Marketing preferences",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -141,7 +141,7 @@
 			"devText": "Marketing activated",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1000,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -161,7 +161,7 @@
 			"devText": "Marketing deactivated",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1000,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -181,7 +181,7 @@
 			"devText": "Close",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -201,7 +201,7 @@
 			"devText": "Update",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 353,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -221,7 +221,7 @@
 			"devText": "The app received a critical error. To continue using it, please open the settings and clear the app storage.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1592,
 					"maxLines": 999,
 					"fontName": "VW Text CarUI",
@@ -241,7 +241,7 @@
 			"devText": "If the update isn\\'t available yet, please try again later.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1592,
 					"maxLines": 999,
 					"fontName": "VW Text CarUI",
@@ -261,7 +261,7 @@
 			"devText": "To continue using the My Driving Style app, please install the latest version from the Store.",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1592,
                   "maxLines": 999,
                   "fontName": "VW Text CarUI",
@@ -281,7 +281,7 @@
 			"devText": "Update required",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -301,7 +301,7 @@
 			"devText": "A new version of the My Driving Style app is now available in the store. You\\'re welcome to continue using the current version, but we recommend updating to the latest version for the best experience and improved security.",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1592,
                   "maxLines": 999,
                   "fontName": "VW Text CarUI",
@@ -321,7 +321,7 @@
 			"devText": "A new software version is available.",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -341,7 +341,7 @@
 			"devText": "Braking Bad Habits",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 359,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -361,7 +361,7 @@
 			"devText": "No hard braking until two consecutive trips of at least 15 minutes each have been completed",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 670,
 					"maxLines": 4,
 					"fontName": "VW Text CarUI",
@@ -381,7 +381,7 @@
 			"devText": "Brake it Down",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 359,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -401,7 +401,7 @@
 			"devText": "Avoid hard braking in one trip of at least 20 minutes.",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 670,
                   "maxLines": 4,
                   "fontName": "VW Text CarUI",
@@ -421,7 +421,7 @@
 			"devText": "Comfortable Joe",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 359,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -441,7 +441,7 @@
 			"devText": "Drive without hard braking or hard acceleration for 45 minutes",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 670,
                   "maxLines": 4,
                   "fontName": "VW Text CarUI",
@@ -461,7 +461,7 @@
 			"devText": "Completed during last trip",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 670,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -481,7 +481,7 @@
 			"devText": "%1$s ✓",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 670,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -508,7 +508,7 @@
 			"devText": "Consistency King",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 359,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -528,7 +528,7 @@
 			"devText": "Score above 90 for the past 10 trips of at least 10 minutes.",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 670,
                   "maxLines": 4,
                   "fontName": "VW Text CarUI",
@@ -548,7 +548,7 @@
 			"devText": "Gentle Glide",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 359,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -568,7 +568,7 @@
 			"devText": "Complete a 30-minute trip with no severe events",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 670,
                   "maxLines": 4,
                   "fontName": "VW Text CarUI",
@@ -588,7 +588,7 @@
 			"devText": "Good Effort",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 359,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -608,7 +608,7 @@
 			"devText": "Complete 40 consecutive trips with a score above 80 regardless of the trip duration.",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 670,
                   "maxLines": 4,
                   "fontName": "VW Text CarUI",
@@ -628,7 +628,7 @@
 			"devText": "Last completed on",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 529,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -648,7 +648,7 @@
 			"devText": "Not completed",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 670,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -668,7 +668,7 @@
 			"devText": "%1$s%% Completed",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 670,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -695,7 +695,7 @@
 			"devText": "Rock Steady",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 359,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -715,7 +715,7 @@
 			"devText": "Drive without any harsh cornering events for 60 minutes",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 670,
                   "maxLines": 4,
                   "fontName": "VW Text CarUI",
@@ -735,7 +735,7 @@
 			"devText": "Accept",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -755,7 +755,7 @@
 			"devText": "Decline",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -775,7 +775,7 @@
 			"devText": "Network error\\nTap here to retry.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1581,
 					"maxLines": 10,
 					"fontName": "VW Text CarUI",
@@ -795,7 +795,7 @@
 			"devText": "Not now",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -815,7 +815,7 @@
 			"devText": "Terms of use",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -835,7 +835,7 @@
 			"devText": "Terms of use",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1432,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -855,7 +855,7 @@
 			"devText": "Scan the QR code on the right with your phone to download the terms of use.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1432,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -875,7 +875,7 @@
 			"devText": "Download terms of use",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1000,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -895,7 +895,7 @@
 			"devText": "Please open the app to keep using it.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1136,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -915,7 +915,7 @@
 			"devText": "Action required:",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1136,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -935,7 +935,7 @@
 			"devText": "Close app",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -955,7 +955,7 @@
 			"devText": "A network error occurred. Please try again.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1581,
 					"maxLines": 10,
 					"fontName": "VW Text CarUI",
@@ -975,7 +975,7 @@
 			"devText": "A network error occurred. Error code: %1$s.\\nIf the problem continues, please contact customer support and provide this code.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1581,
 					"maxLines": 10,
 					"fontName": "VW Text CarUI",
@@ -1002,7 +1002,7 @@
 			"devText": "Action required: Terms of use update",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -1022,7 +1022,7 @@
 			"devText": "Updated terms of use available",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -1042,7 +1042,7 @@
 			"devText": "Retry",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1062,7 +1062,7 @@
 			"devText": "Revoke consent",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1082,7 +1082,7 @@
 			"devText": "Select",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 992,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1102,7 +1102,7 @@
 			"devText": "Select end date",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 992,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1122,7 +1122,7 @@
 			"devText": "Select start date",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 992,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1142,7 +1142,7 @@
 			"devText": "Download",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 353,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1162,7 +1162,7 @@
 			"devText": "Hard Acceleration",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1182,7 +1182,7 @@
 			"devText": "Severe Acceleration",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1202,7 +1202,7 @@
 			"devText": "Hard Braking",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1222,7 +1222,7 @@
 			"devText": "Severe Braking",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1242,7 +1242,7 @@
 			"devText": "Harsh Cornering",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1262,7 +1262,7 @@
 			"devText": "Severe Cornering",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1282,7 +1282,7 @@
 			"devText": "Hard Acceleration",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1302,7 +1302,7 @@
 			"devText": "Severe Acceleration",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1322,7 +1322,7 @@
 			"devText": "Hard Braking",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1342,7 +1342,7 @@
 			"devText": "Severe Braking",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1362,7 +1362,7 @@
 			"devText": "Harsh Cornering",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1382,7 +1382,7 @@
 			"devText": "Severe Cornering",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1402,7 +1402,7 @@
 			"devText": "Seatbelt Unbuckled",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1422,7 +1422,7 @@
 			"devText": "Unknown event",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1442,7 +1442,7 @@
 			"devText": "Seatbelt Unbuckled",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1462,7 +1462,7 @@
 			"devText": "Unknown event",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1482,7 +1482,7 @@
 			"devText": "Duration",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 320,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1502,7 +1502,7 @@
 			"devText": "seconds",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 300,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1522,7 +1522,7 @@
 			"devText": "Speed",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 320,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1542,7 +1542,7 @@
 			"devText": "%d km/h",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 320,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1569,7 +1569,7 @@
 			"devText": "Time",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 320,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1589,7 +1589,7 @@
 			"devText": "Current Rank",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 403,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1609,7 +1609,7 @@
 			"devText": "Score",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 403,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1629,7 +1629,7 @@
 			"devText": "Offer available",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 403,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1649,7 +1649,7 @@
 			"devText": "Not available",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 403,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1669,7 +1669,7 @@
 			"devText": "Offers",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 403,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1689,7 +1689,7 @@
 			"devText": "Trophies",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 403,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1709,7 +1709,7 @@
 			"devText": "terms of use",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1392,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1729,7 +1729,7 @@
 			"devText": "I hereby accept the aforementioned terms of use for using the My Driving Style app",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1392,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -1749,7 +1749,7 @@
 			"devText": "Terms of use",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1432,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1769,7 +1769,7 @@
 			"devText": "I am aware that my right to withdraw expires when the contracted partner begins executing the contract.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1392,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -1789,7 +1789,7 @@
 			"devText": "Consent provided for using the app",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -1809,7 +1809,7 @@
 			"devText": "The My Driving Style app requires access to your vehicle\\'s GPS data to accurately analyse your driving behaviour and to provide key features such as challenges, driver analytics and other gamification elements. This data is essential for ensuring the app functions as intended. Without location permission, these features cannot be enabled and the app will not be usable.\\n\\nTo proceed, please grant permission by following the path:\\n\\nOpen settings > Permissions > Location > Allow all the time",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1440,
 					"maxLines": 999,
 					"fontName": "VW Text CarUI",
@@ -1829,7 +1829,7 @@
 			"devText": "The My Driving Style app requires access to notifications in order to keep you informed about important updates, relevant changes and exclusive offers. Enabling notifications ensures that the My Driving Style app works as intended and that you don’t miss out on key information related to your driving analytics and app features. Without this permission, you may not receive essential alerts.\\n\\nTo proceed, please grant permission by following the path:\\n\\nGrant permission > Allow",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1440,
 					"maxLines": 999,
 					"fontName": "VW Text CarUI",
@@ -1849,7 +1849,7 @@
 			"devText": "The My Driving Style app requires access to notifications in order to keep you informed about important updates, relevant changes and exclusive offers. Enabling notifications ensures that the My Driving Style app works as intended and that you don’t miss out on key information related to your driving analytics and app features. Without this permission, you may not receive essential alerts.\\n\\nTo proceed, please grant permission by following the path:\\n\\nOpen settings > Activate notification toggle",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1440,
 					"maxLines": 999,
 					"fontName": "VW Text CarUI",
@@ -1869,7 +1869,7 @@
 			"devText": "Settings",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1889,7 +1889,7 @@
 			"devText": "Close",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1909,7 +1909,7 @@
 			"devText": "View later",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1929,7 +1929,7 @@
 			"devText": "Have you heard about Audi insurance? Scan the QR code and learn more online, or get more information by phone. Service hotline:\\n%1$s\\n%2$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 992,
 					"maxLines": 10,
 					"fontName": "VW Text CarUI",
@@ -1961,7 +1961,7 @@
 			"devText": "You are a great driver",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 992,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -1981,7 +1981,7 @@
 			"devText": "Grant permission",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2001,7 +2001,7 @@
 			"devText": "Close app",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2021,7 +2021,7 @@
 			"devText": "Open settings",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 842,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2041,7 +2041,7 @@
 			"devText": "Permission required",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -2061,7 +2061,7 @@
 			"devText": "This insurance might be of interest.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1432,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2081,7 +2081,7 @@
 			"devText": "Scan the QR code on the right with your phone to download the data protection notes.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 992,
 					"maxLines": 10,
 					"fontName": "VW Text CarUI",
@@ -2101,7 +2101,7 @@
 			"devText": "Download data protection notes",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1000,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2121,7 +2121,7 @@
 			"devText": "Attentive Chauffeur",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2141,7 +2141,7 @@
 			"devText": "The Attentive Chauffeur is a diligent and safety-conscious driver. Their commitment to safety makes them a reliable choice for any trip.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2161,7 +2161,7 @@
 			"devText": "Casual Driver",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2181,7 +2181,7 @@
 			"devText": "The Casual Driver is a laid-back traveller, enjoying the journey while focusing on getting to the destination in a timely manner.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2201,7 +2201,7 @@
 			"devText": "Comfortable Navigator",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2221,7 +2221,7 @@
 			"devText": "A Comfortable Navigator is a driver who ensures passengers are at ease throughout the ride.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2241,7 +2241,7 @@
 			"devText": "Cool Cruiser",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2261,7 +2261,7 @@
 			"devText": "Cool Cruisers bring a sense of style to the road. They handle their vehicle with grace and finesse, making driving look effortless.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2281,7 +2281,7 @@
 			"devText": "Description",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2301,7 +2301,7 @@
 			"devText": "Green Roller",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2321,7 +2321,7 @@
 			"devText": "The Green Roller is a driver with a gentle touch on the wheel, skillfully navigating the road with a focus on precision and safety.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2341,7 +2341,7 @@
 			"devText": "For your safety, limited operation while driving.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1464,
 					"maxLines": 6,
 					"fontName": "VW Text CarUI",
@@ -2361,7 +2361,7 @@
 			"devText": "Road Champion",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2381,7 +2381,7 @@
 			"devText": "The Road Champion is the pinnacle of driving excellence. They conquer the road with unwavering skill and precision.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2401,7 +2401,7 @@
 			"devText": "Rank",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2421,7 +2421,7 @@
 			"devText": "Smooth Operator",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 405,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2441,7 +2441,7 @@
 			"devText": "A Smooth Operator is the master of a fluid and seamless driving experience, ensuring a smooth and comfortable ride for all.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 680,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2461,7 +2461,7 @@
 			"devText": "Cancel",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 380,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2481,7 +2481,7 @@
 			"devText": "Revoking your consent will disable the functionality of the My Driving Style app, including the collection and analysis of your driving data. Are you sure you want to proceed with revoking your consent\\?",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 864,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -2501,7 +2501,7 @@
 			"devText": "Confirmation",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 864,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2521,7 +2521,7 @@
 			"devText": "The My Driving Style app is currently active.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1136,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2541,7 +2541,7 @@
 			"devText": "My Driving Style",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1064,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2561,7 +2561,7 @@
 			"devText": "Settings",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -2581,7 +2581,7 @@
 			"devText": "Marketing preferences",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1271,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2601,7 +2601,7 @@
 			"devText": "Terms of use",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1271,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2621,7 +2621,7 @@
 			"devText": "About us",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1271,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2641,7 +2641,7 @@
 			"devText": "Open Source Software Notice",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1271,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2661,7 +2661,7 @@
 			"devText": "For your safety, limited operation while driving.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1464,
 					"maxLines": 6,
 					"fontName": "VW Text CarUI",
@@ -2681,7 +2681,7 @@
 			"devText": "Open Source Software Notice",
 			"variants": [
                 {
-                  "systemVariant": "VOLKSWAGEN_12_0",
+                  "systemVariant": "VOLKSWAGEN_12_9",
                   "maxWidth": 1432,
                   "maxLines": 1,
                   "fontName": "VW Text CarUI",
@@ -2701,7 +2701,7 @@
 			"devText": "Data protection notes",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1271,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2721,7 +2721,7 @@
 			"devText": "Software version %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1271,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2748,7 +2748,7 @@
 			"devText": "Tap here to view details.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1136,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2768,7 +2768,7 @@
 			"devText": "New driving statistic available",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1136,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -2788,7 +2788,7 @@
 			"devText": "Challenges",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 206,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2808,7 +2808,7 @@
 			"devText": "Overview",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 206,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2828,7 +2828,7 @@
 			"devText": "Rank",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 206,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2848,7 +2848,7 @@
 			"devText": "Trips",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 206,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2868,7 +2868,7 @@
 			"devText": "For your safety, limited operation while driving.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1464,
 					"maxLines": 6,
 					"fontName": "VW Text CarUI",
@@ -2888,7 +2888,7 @@
 			"devText": "km",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2908,7 +2908,7 @@
 			"devText": "km",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2928,7 +2928,7 @@
 			"devText": "at %1$sh %2$s min",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2960,7 +2960,7 @@
 			"devText": "at %1$s min",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 471,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -2987,7 +2987,7 @@
 			"devText": "g",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3007,7 +3007,7 @@
 			"devText": "h ",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3027,7 +3027,7 @@
 			"devText": "m",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3047,7 +3047,7 @@
 			"devText": "km/h",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3067,7 +3067,7 @@
 			"devText": "Average speed",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3087,7 +3087,7 @@
 			"devText": "Trip events",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 632,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3107,7 +3107,7 @@
 			"devText": "Max g-force",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3127,7 +3127,7 @@
 			"devText": "Trip distance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3147,7 +3147,7 @@
 			"devText": "Duration",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3167,7 +3167,7 @@
 			"devText": "Score",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 259,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3187,7 +3187,7 @@
 			"devText": "Afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3214,7 +3214,7 @@
 			"devText": "Afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3241,7 +3241,7 @@
 			"devText": "Early afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3268,7 +3268,7 @@
 			"devText": "Early afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3295,7 +3295,7 @@
 			"devText": "Early morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3322,7 +3322,7 @@
 			"devText": "Early morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3349,7 +3349,7 @@
 			"devText": "Evening round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3376,7 +3376,7 @@
 			"devText": "Evening trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3403,7 +3403,7 @@
 			"devText": "Late afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3430,7 +3430,7 @@
 			"devText": "Late afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3457,7 +3457,7 @@
 			"devText": "Late evening round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3484,7 +3484,7 @@
 			"devText": "Late evening trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3511,7 +3511,7 @@
 			"devText": "Late morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3538,7 +3538,7 @@
 			"devText": "Late morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3565,7 +3565,7 @@
 			"devText": "Long afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3592,7 +3592,7 @@
 			"devText": "Long afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3619,7 +3619,7 @@
 			"devText": "Long early afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3646,7 +3646,7 @@
 			"devText": "Long early afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3673,7 +3673,7 @@
 			"devText": "Long early morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3700,7 +3700,7 @@
 			"devText": "Long early morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3727,7 +3727,7 @@
 			"devText": "Long evening round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3754,7 +3754,7 @@
 			"devText": "Long evening trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3781,7 +3781,7 @@
 			"devText": "Long late afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3808,7 +3808,7 @@
 			"devText": "Long late afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3835,7 +3835,7 @@
 			"devText": "Long late evening round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3862,7 +3862,7 @@
 			"devText": "Long late evening trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3889,7 +3889,7 @@
 			"devText": "Long late morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3916,7 +3916,7 @@
 			"devText": "Long late morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3943,7 +3943,7 @@
 			"devText": "Long morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3970,7 +3970,7 @@
 			"devText": "Long morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -3997,7 +3997,7 @@
 			"devText": "Long night round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4024,7 +4024,7 @@
 			"devText": "Long night trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4051,7 +4051,7 @@
 			"devText": "Morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4078,7 +4078,7 @@
 			"devText": "Morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4105,7 +4105,7 @@
 			"devText": "Night round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4132,7 +4132,7 @@
 			"devText": "Night trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4159,7 +4159,7 @@
 			"devText": "Short afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4186,7 +4186,7 @@
 			"devText": "Short afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4213,7 +4213,7 @@
 			"devText": "Short early afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4240,7 +4240,7 @@
 			"devText": "Short early afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4267,7 +4267,7 @@
 			"devText": "Short early morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4294,7 +4294,7 @@
 			"devText": "Short early morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4321,7 +4321,7 @@
 			"devText": "Short evening round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4348,7 +4348,7 @@
 			"devText": "Short evening trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4375,7 +4375,7 @@
 			"devText": "Short late afternoon round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4402,7 +4402,7 @@
 			"devText": "Short late afternoon trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4429,7 +4429,7 @@
 			"devText": "Short late evening round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4456,7 +4456,7 @@
 			"devText": "Short late evening trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4483,7 +4483,7 @@
 			"devText": "Short late morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4510,7 +4510,7 @@
 			"devText": "Short late morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4537,7 +4537,7 @@
 			"devText": "Short morning round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4564,7 +4564,7 @@
 			"devText": "Short morning trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4591,7 +4591,7 @@
 			"devText": "Short night round trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4618,7 +4618,7 @@
 			"devText": "Short night trip at %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4645,7 +4645,7 @@
 			"devText": "The displayed GPS track is an abstract visualisation of your trip, based on your driving behaviour, coordinates, and the time. It shows the course of your trip and when the event occurred based on the time and distance driven.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1168,
 					"maxLines": 7,
 					"fontName": "VW Text CarUI",
@@ -4665,7 +4665,7 @@
 			"devText": "Trip visualisation",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1000,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4685,7 +4685,7 @@
 			"devText": "We are currently completing the necessary setup for you in the background.\\nThis process may take some time and may involve multiple trips.\\nWe appreciate your patience.",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1440,
 					"maxLines": 5,
 					"fontName": "VW Text CarUI",
@@ -4705,7 +4705,7 @@
 			"devText": "%1$s events - %2$s km - %3$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4742,7 +4742,7 @@
 			"devText": "No events - %1$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4769,7 +4769,7 @@
 			"devText": "%1$s events | ~ %2$s km | %3$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1139,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4806,7 +4806,7 @@
 			"devText": "Less than seven days ago",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1424,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4826,7 +4826,7 @@
 			"devText": "More than four weeks ago",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1424,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4846,7 +4846,7 @@
 			"devText": "One to four weeks ago",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1424,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4866,7 +4866,7 @@
 			"devText": "%1$s\\n%2$s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 764,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -4898,7 +4898,7 @@
 			"devText": "%1$s\\'s",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 764,
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -4925,7 +4925,7 @@
 			"devText": "Great job! You had a perfect trip and didn\\'t trigger any events. Keep it up!",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 600,
 					"maxLines": 10,
 					"fontName": "VW Text CarUI",
@@ -4945,7 +4945,7 @@
 			"devText": "To explore your personal offer from VW insurance please follow this QR code",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 384,
 					"maxLines": 4,
 					"fontName": "VW Text CarUI",
@@ -4965,7 +4965,7 @@
 			"devText": "Insurance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1432,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -4985,7 +4985,7 @@
 			"devText": "Insurance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 206,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5005,7 +5005,7 @@
 			"devText": "Driving Statistics",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 1352,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5025,7 +5025,7 @@
 			"devText": "Total distance driven",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 338,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5045,7 +5045,7 @@
 			"devText": "Total time driven",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 724,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5065,7 +5065,7 @@
 			"devText": "Average speed",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 338,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5085,7 +5085,7 @@
 			"devText": "km",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 249,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5105,7 +5105,7 @@
 			"devText": "h",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 249,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5125,7 +5125,7 @@
 			"devText": "m",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 249,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5145,7 +5145,7 @@
 			"devText": "km/h",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 249,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5165,7 +5165,7 @@
 			"devText": "Total amount of trips",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 305,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5185,7 +5185,7 @@
 			"devText": "Perfect trips",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 305,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5205,7 +5205,7 @@
 			"devText": "Longest trip",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 305,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5225,7 +5225,7 @@
 			"devText": "Last trip distance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 305,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5245,7 +5245,7 @@
 			"devText": "Score details",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 724,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5265,7 +5265,7 @@
 			"devText": "0-40",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 100,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5285,7 +5285,7 @@
 			"devText": "41-80",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 100,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5305,7 +5305,7 @@
 			"devText": "81-100",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 100,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5325,7 +5325,7 @@
 			"devText": "%d trip",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 551,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5345,7 +5345,7 @@
 			"devText": "%d trips",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 551,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5365,7 +5365,7 @@
 			"devText": "Total amount of events triggered",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 724,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5385,7 +5385,7 @@
 			"devText": "Acceleration",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 225,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5405,7 +5405,7 @@
 			"devText": "Breaking",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 225,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5425,7 +5425,7 @@
 			"devText": "Cornering",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 225,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5445,7 +5445,7 @@
 			"devText": "Overview",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 210,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5465,7 +5465,7 @@
 			"devText": "Details",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 210, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5485,7 +5485,7 @@
 			"devText": "Month",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5505,7 +5505,7 @@
 			"devText": "Year",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5525,7 +5525,7 @@
 			"devText": "Average score",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 580,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5545,7 +5545,7 @@
 			"devText": "Distance driven",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5565,7 +5565,7 @@
 			"devText": "Time driven",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 278,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5585,7 +5585,7 @@
 			"devText": "My VW insurance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 656,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5605,7 +5605,7 @@
 			"devText": "Add your VW insurance information",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 656, 
 					"maxLines": 2,
 					"fontName": "VW Text CarUI",
@@ -5625,7 +5625,7 @@
 			"devText": "Insurance number",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 560,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5645,7 +5645,7 @@
 			"devText": "Start date",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5665,7 +5665,7 @@
 			"devText": "End date",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 220,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5685,7 +5685,7 @@
 			"devText": "Contact your VW insurance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 608,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5705,7 +5705,7 @@
 			"devText": "Claim hotline (24 hours)",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 592,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5725,7 +5725,7 @@
 			"devText": "Customer support",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 296,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5745,7 +5745,7 @@
 			"devText": "Email",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 296,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5765,7 +5765,7 @@
 			"devText": "Save",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 176,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5785,7 +5785,7 @@
 			"devText": "Edit",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 176,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5805,7 +5805,7 @@
 			"devText": "Add insurance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 656,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5825,7 +5825,7 @@
 			"devText": "Get VW insurance",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 608,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5845,7 +5845,7 @@
 			"devText": "To explore your personal offer from VW insurance please follow this QR code",
 			"variants": [
 				{
-					"systemVariant": "VOLKSWAGEN_12_0",
+					"systemVariant": "VOLKSWAGEN_12_9",
 					"maxWidth": 336,
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
@@ -5857,6 +5857,46 @@
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 48
+				}
+			]
+		},
+		{
+			"name": "home_screen_monthly_score",
+			"devText": "Monthly score",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_9",
+					"maxWidth": 357,
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 589, 
+					"maxLines": 1,
+					"fontName": "VW Text CarUI",
+					"fontSize": 48
+				}
+			]
+		},
+				{
+			"name": "overview_gauge_chart_empty_state_message",
+			"devText": "Start driving to\n get your score",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_9",
+					"maxWidth": 181,
+					"maxLines": 2,
+					"fontName": "VW Text CarUI",
+					"fontSize": 28
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 249, 
+					"maxLines": 2,
+					"fontName": "VW Text CarUI",
+					"fontSize": 32
 				}
 			]
 		}
