@@ -5581,46 +5581,6 @@
 			]
 		},
 		{
-			"name": "insurance_my_financial_services",
-			"devText": "My VW insurance",
-			"variants": [
-				{
-					"systemVariant": "VOLKSWAGEN_12_9",
-					"maxWidth": 656,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				},
-				{
-					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 816, 
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				}
-			]
-		},
-		{
-			"name": "insurance_store_info",
-			"devText": "Add your VW insurance information",
-			"variants": [
-				{
-					"systemVariant": "VOLKSWAGEN_12_9",
-					"maxWidth": 656, 
-					"maxLines": 2,
-					"fontName": "VW Text CarUI",
-					"fontSize": 40
-				},
-				{
-					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 816,
-					"maxLines": 2,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				}
-			]
-		},
-		{
 			"name": "insurance_insurance_number_hint",
 			"devText": "Insurance number",
 			"variants": [
@@ -5677,26 +5637,6 @@
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 40
-				}
-			]
-		},
-		{
-			"name": "insurance_insurance_details_header",
-			"devText": "Contact your VW insurance",
-			"variants": [
-				{
-					"systemVariant": "VOLKSWAGEN_12_9",
-					"maxWidth": 608,
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
-				},
-				{
-					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 816, 
-					"maxLines": 1,
-					"fontName": "VW Text CarUI",
-					"fontSize": 48
 				}
 			]
 		},
@@ -5821,22 +5761,42 @@
 			]
 		},
 		{
-			"name": "insurance_qr_code_header",
-			"devText": "Get VW insurance",
+			"name": "insurance_details_saved",
+			"devText": "Insurance details saved",
 			"variants": [
 				{
 					"systemVariant": "VOLKSWAGEN_12_9",
-					"maxWidth": 608,
-					"maxLines": 1,
+					"maxWidth": 897,
+					"maxLines": 2,
 					"fontName": "VW Text CarUI",
-					"fontSize": 48
+					"fontSize": 40
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 816, 
-					"maxLines": 1,
+					"maxWidth": 1089, 
+					"maxLines": 2,
 					"fontName": "VW Text CarUI",
-					"fontSize": 48
+					"fontSize": 40
+				}
+			]
+		},
+		{
+			"name": "insurance_no_saved_details",
+			"devText": "No saved details",
+			"variants": [
+				{
+					"systemVariant": "VOLKSWAGEN_12_9",
+					"maxWidth": 897,
+					"maxLines": 2,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
+				},
+				{
+					"systemVariant": "VOLKSWAGEN_15_0",
+					"maxWidth": 1089, 
+					"maxLines": 2,
+					"fontName": "VW Text CarUI",
+					"fontSize": 40
 				}
 			]
 		},
@@ -5873,7 +5833,7 @@
 				},
 				{
 					"systemVariant": "VOLKSWAGEN_15_0",
-					"maxWidth": 589, 
+					"maxWidth": 496, 
 					"maxLines": 1,
 					"fontName": "VW Text CarUI",
 					"fontSize": 48

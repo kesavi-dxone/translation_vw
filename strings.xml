@@ -277,22 +277,19 @@
     <string name="driving_statistics_distance_driven" translatable="false">Distance driven</string>
     <string name="driving_statistics_time_driven" translatable="false">Time driven</string>
     <string name="insurance_screen_title" translatable="false">Insurance</string>
-    <string name="insurance_my_financial_services" translatable="false">My VW insurance</string>
-    <string name="insurance_store_info" translatable="false">Add your VW insurance information</string>
     <string name="insurance_insurance_number_hint" translatable="false">Insurance number</string>
     <string name="insurance_from_hint" translatable="false">Start date</string>
     <string name="insurance_to_hint" translatable="false">End date</string>
-    <string name="insurance_insurance_details_header" translatable="false">Contact your VW insurance</string>
     <string name="insurance_report_claim_label" translatable="false">Claim hotline (24 hours)</string>
     <string name="insurance_customer_support_label" translatable="false">Customer support</string>
     <string name="insurance_email_label" translatable="false">Email</string>
     <string name="insurance_save" translatable="false">Save</string>
     <string name="insurance_edit" translatable="false">Edit</string>
     <string name="insurance_add" translatable="false">Add insurance</string>
+    <string name="insurance_details_saved" translatable="false">Insurance details saved</string>
+    <string name="insurance_no_saved_details" translatable="false">No saved details</string>
     <string name="tab_title_insurance" translatable="false">Insurance</string>
-    <string name="insurance_qr_code_header" translatable="false">Get VW insurance</string>
     <string name="insurance_qr_code_description" translatable="false">To explore your personal offer from VW insurance please follow this QR code</string> 
-
     <string name="trip_detail_g_force" translatable="false">g</string>
     <string name="trip_detail_speed" translatable="false">km/h</string>
     <string name="trip_detail_minutes" translatable="false">m</string>
