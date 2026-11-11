@@ -5839,6 +5839,761 @@
           "fontSize": 32
         }
       ]
+    },
+    {
+      "name": "app_guestmode",
+      "devText": "You can\\'t use this app while you\\'re signed out.\\n\\nPlease sign in to your Volkswagen ID account to continue.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 1592,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1816,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "name": "app_name",
+      "devText": "My Driving Style",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 1136,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1152,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_axis_label_days",
+      "devText": "Days",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 700,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 20
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1000,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_axis_label_months",
+      "devText": "Months",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 700,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 20
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1000,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_axis_label_score",
+      "devText": "Score",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 372,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 20
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 532,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_placeholder",
+      "devText": "No data\\nStart driving to get your score",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 181,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 28
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 249,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_na",
+      "devText": "N/A",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 580,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 56
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 580,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 56
+        }
+      ]
+    },
+    {
+      "name": "event_details_location",
+      "devText": "Location",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 410,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 410,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "event_location_unknown",
+      "devText": "Unknown",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 410,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 410,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "generic_no",
+      "devText": "No",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 353,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 373,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "generic_yes",
+      "devText": "Yes",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 353,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 373,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "guestmode_title",
+      "devText": "Sign in required",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 1568,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1792,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "name": "insurance_toast_no_details",
+      "devText": "No saved details",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 1000,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1100,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "insurance_toast_saved",
+      "devText": "Insurance details saved",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 1000,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1100,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "tab_title_trophies",
+      "devText": "Trophies",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 206,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 34
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 208,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 34
+        }
+      ]
+    },
+    {
+      "name": "trip_details_remove_dialog_message",
+      "devText": "Do you want to remove details from trip title\\?",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 864,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 864,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "name": "trip_details_remove_dialog_title",
+      "devText": "Remove Trip Details",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 864,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 864,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "name": "rank_attentive_chauffeur_description_small_height",
+      "devText": "The Attentive Chauffeur is a diligent and safety-conscious driver. Their commitment to safety makes them a reliable choice for any trip.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 680,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 680,
+          "maxLines": 6,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "rank_casual_driver_description_small_height",
+      "devText": "The Casual Driver is a laid-back traveler, enjoying his journey while focusing on getting to their destination in a timely manner.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 680,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 680,
+          "maxLines": 6,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "rank_comfortable_navigator_description_small_height",
+      "devText": "A Comfortable Navigator is a driver who ensures passengers are at ease throughout the ride.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 680,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 680,
+          "maxLines": 6,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "rank_cool_cruiser_description_small_height",
+      "devText": "Cool Cruisers bring a sense of style to the road. They handle their vehicle with grace and finesse, making driving look effortless.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 680,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 680,
+          "maxLines": 6,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "rank_green_roller_description_small_height",
+      "devText": "The Green Roller is a driver with a gentle touch on the wheel, skillfully navigating the road with a focus on precision and safety.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 680,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 680,
+          "maxLines": 6,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "rank_smooth_operator_description_small_height",
+      "devText": "A Smooth Operator is the master of a fluid and seamless driving experience, ensuring a smooth and comfortable ride for all.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 680,
+          "maxLines": 5,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 680,
+          "maxLines": 6,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_activated",
+      "devText": "Activated",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 762,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1066,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_completed",
+      "devText": "Completed",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 762,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1066,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_current_balance",
+      "devText": "Current balance",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 263,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 263,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_earned_label",
+      "devText": "Earned",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 150,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 213,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_spent_label",
+      "devText": "Spent",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 150,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 213,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_season_name",
+      "devText": "Season",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 206,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 258,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_go_to_challenges",
+      "devText": "Go to Challenges",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 417,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 417,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_included",
+      "devText": "included",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 610,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 763,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_empty",
+      "devText": "No trophy transactions yet.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 1581,
+          "maxLines": 4,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 1832,
+          "maxLines": 4,
+          "fontName": "VW Text CarUI",
+          "fontSize": 48
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_total",
+      "devText": "Total: %1$d",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 676,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 36
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 840,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 36
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "total_trophies_count",
+          "value": "%1$d",
+          "example": "125"
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_level",
+      "devText": ": level %1$d",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 381,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 533,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "challenge_level",
+          "value": "%1$d",
+          "example": "2"
+        }
+      ]
+    },
+    {
+      "name": "challenge_city_smooth_operator",
+      "devText": "City Smooth Operator",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 624,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 624,
+          "maxLines": 1,
+          "fontName": "VW Text CarUI",
+          "fontSize": 40
+        }
+      ]
+    },
+    {
+      "name": "challenge_city_smooth_operator_description",
+      "devText": "Build an unbroken streak of urban minutes (below speed limit) with zero hard-acceleration events.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 624,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 624,
+          "maxLines": 2,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
+    },
+    {
+      "name": "challenge_city_smooth_operator_info",
+      "devText": "Drive in urban speed (below the limit) without hard acceleration.\\nEach clean minute below the speed limit adds to your streak.\\nA hard-acceleration event resets the streak to zero — keep rebuilding!\\nThe streak carries over across trips.",
+      "variants": [
+        {
+          "systemVariant": "VOLKSWAGEN_12_9",
+          "maxWidth": 992,
+          "maxLines": 3,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        },
+        {
+          "systemVariant": "VOLKSWAGEN_15_0",
+          "maxWidth": 992,
+          "maxLines": 3,
+          "fontName": "VW Text CarUI",
+          "fontSize": 32
+        }
+      ]
     }
+
   ]
 }
