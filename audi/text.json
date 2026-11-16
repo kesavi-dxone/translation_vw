@@ -1,0 +1,4380 @@
+{
+  "version": "4.4.4",
+  "meta": {
+    "project": {
+      "project": "HCP3",
+      "cluster": "CL48",
+      "brand": "AUDI"
+    },
+    "app": {
+      "name": "UBI InCarApp",
+      "version": "1.0.1"
+    },
+    "supplier": {
+      "name": "Cariad",
+      "prefix": "CARI"
+    }
+  },
+  "texts": [
+    {
+      "name": "tab_title_overview",
+      "devText": "Overview",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "tab_title_trips",
+      "devText": "Trips",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "tab_title_rank",
+      "devText": "Rank",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "tab_title_challenges",
+      "devText": "Challenges",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+
+    {
+      "name": "home_screen_notifications",
+      "devText": "Offers",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 450,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "home_screen_driver_score",
+      "devText": "Driver score",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 450,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "home_screen_trophies",
+      "devText": "Trophies",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "home_screen_no_messages",
+      "devText": "Not available",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "home_screen_new_message",
+      "devText": "Offer available",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "home_screen_current_rank",
+      "devText": "Current Rank",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 450,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trips_screen_list_title_less_than_seven_days_ago",
+      "devText": "less than seven days ago",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trips_screen_list_title_one_to_four_weeks_ago",
+      "devText": "One to four weeks ago",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trips_screen_list_title_more_than_four_weeks_ago",
+      "devText": "More than four weeks ago",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trips_screen_list_entry_details",
+      "devText": "%1$s events - %2$s km - %3$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "number_of_events",
+          "value": "%1$s",
+          "example": "10"
+        },
+        {
+          "name": "number_of_km",
+          "value": "%2$s",
+          "example": "10"
+        },
+        {
+          "name": "trip_date",
+          "value": "%3$s",
+          "example": "10.03.2025"
+        }
+      ]
+    },
+    {
+      "name": "trips_screen_list_entry_details_no_events",
+      "devText": "No events - %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "trip_date",
+          "value": "%1$s",
+          "example": "10.03.2025"
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_list_title_trip_events",
+      "devText": "Trip events",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 400,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "you_had_a_perfect_trip",
+      "devText": "Great Job!\nYou had a perfect trip and didn't trigger any events - Keep it up!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 400,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_trip_score",
+      "devText": "Trip score",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_max_g_force",
+      "devText": "Max G-Force",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 270,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_average_speed",
+      "devText": "Average Speed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 400,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_trip_duration",
+      "devText": "Trip Duration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 270,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_trip_distance",
+      "devText": "Trip Distance",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 270,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+
+    {
+      "name": "event_details_time",
+      "devText": "Time",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "event_details_speed",
+      "devText": "Speed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "event_details_duration",
+      "devText": "Duration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+
+    {
+      "name": "driver_event_hard_braking",
+      "devText": "Hard Braking",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_hard_braking_severe",
+      "devText": "Severe Braking",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_hard_acceleration",
+      "devText": "Hard Acceleration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_hard_acceleration_severe",
+      "devText": "Severe Acceleration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_harsh_cornering",
+      "devText": "Harsh Cornering",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_harsh_cornering_severe",
+      "devText": "Severe Cornering",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_seat_belt_unbuckled",
+      "devText": "Seat Belt Unbuckled",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_unknown",
+      "devText": "Unknown event",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 900,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_screen_rank",
+      "devText": "Rank",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+
+    {
+      "name": "rank_not_available_while_driving",
+      "devText": "Not available while driving",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 550,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+
+    {
+      "name": "rank_description",
+      "devText": "Description",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+
+    {
+      "name": "rank_casual_driver",
+      "devText": "Casual driver",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_comfortable_navigator",
+      "devText": "Comfortable navigator",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_attentive_chauffeur",
+      "devText": "Attentive chauffeur",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_green_roller",
+      "devText": "Green Roller",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_cool_cruiser",
+      "devText": "Cool Cruiser",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_smooth_operator",
+      "devText": "Smooth Operator",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_road_champion",
+      "devText": "Road Champion",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+
+    {
+      "name": "rank_casual_driver_description",
+      "devText": "The Casual Driver is a laid-back traveler, enjoying his journey while focusing on getting to their destination in a timely manner",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_comfortable_navigator_description",
+      "devText": "A Comfortable Navigator is a driver who ensures passengers are at ease throughout the ride.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_attentive_chauffeur_description",
+      "devText": "The Attentive Chauffeur is a diligent and safety-conscious driver. Their commitment to safety makes them a reliable choice for any trip.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_green_roller_description",
+      "devText": "The Green Roller is a driver with a gentle touch on the wheel, skillfully navigating the road with a focus on precision and safety.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_cool_cruiser_description",
+      "devText": "Cool Cruisers bring a sense of style to the road. They handle their vehicle with grace and finesse, making driving look effortless.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_smooth_operator_description",
+      "devText": "A Smooth Operator is the master of a fluid and seamless driving experience, ensuring a smooth and comfortable ride for all.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "rank_road_champion_description",
+      "devText": "The Road Champion is the pinnacle of driving excellence. They conquer the road with unwavering skill and precision.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+
+    {
+      "name": "challenge_break_it_down",
+      "devText": "Break it Down",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_comfortable_joe",
+      "devText": "Comfortable Joe",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_good_effort",
+      "devText": "Good Effort",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_consistency_king",
+      "devText": "Consistency King",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_braking_bad_habits",
+      "devText": "Braking Bad Habits",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_gentle_glide",
+      "devText": "Gentle Glide",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_rock_steady",
+      "devText": "Rock Steady",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+
+    {
+      "name": "challenge_break_it_down_description",
+      "devText": "Avoid hard breaking in one trip of at least 20 minutes",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_comfortable_joe_description",
+      "devText": "Drive without hard breaking or hard acceleration for 45 minutes",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_good_effort_description",
+      "devText": "Complete 40 trips with a score above 80 regardless of the trip duration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_consistency_king_description",
+      "devText": "Score above 90 for the past 10 trips of at least 10 minutes",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_braking_bad_habits_description",
+      "devText": "No hard braking events until two consecutive trips of at least 15 minutes each have been completed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_gentle_glide_description",
+      "devText": "Complete a 30-minute trip with no more than one event, which can not be severe",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_rock_steady_description",
+      "devText": "Drive without any harsh cornering events for 60 minutes",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+
+    {
+      "name": "challenge_progress",
+      "devText": "%1$s% Completed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "percentage_complete",
+          "value": "%1$s",
+          "example": "100"
+        }
+      ]
+    },
+
+    {
+      "name": "challenge_not_completed",
+      "devText": "Not completed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 4,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_night_trip",
+      "devText": "Short night trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_night_round_trip",
+      "devText": "Short night round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_early_morning_trip",
+      "devText": "Short early morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_early_morning_round_trip",
+      "devText": "Short early morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_morning_trip",
+      "devText": "Short morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_morning_round_trip",
+      "devText": "Short morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_late_morning_trip",
+      "devText": "Short late morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_late_morning_round_trip",
+      "devText": "Short late morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_early_afternoon_trip",
+      "devText": "Short early afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_early_afternoon_round_trip",
+      "devText": "Short early afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_afternoon_trip",
+      "devText": "Short afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_afternoon_round_trip",
+      "devText": "Short afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_late_afternoon_trip",
+      "devText": "Short late afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_late_afternoon_round_trip",
+      "devText": "Short late afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_evening_trip",
+      "devText": "Short evening trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_evening_round_trip",
+      "devText": "Short evening round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_late_evening_trip",
+      "devText": "Short late evening trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_short_late_evening_round_trip",
+      "devText": "Short late evening round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_night_trip",
+      "devText": "Night trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_night_round_trip",
+      "devText": "Night round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_early_morning_trip",
+      "devText": "Early morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_early_morning_round_trip",
+      "devText": "Early morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_morning_trip",
+      "devText": "Morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_morning_round_trip",
+      "devText": "Morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_late_morning_trip",
+      "devText": "Late morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_late_morning_round_trip",
+      "devText": "Late morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_early_afternoon_trip",
+      "devText": "Early afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_early_afternoon_round_trip",
+      "devText": "Early afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_afternoon_trip",
+      "devText": "Afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_afternoon_round_trip",
+      "devText": "Afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_late_afternoon_trip",
+      "devText": "Late afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_late_afternoon_round_trip",
+      "devText": "Late afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_evening_trip",
+      "devText": "Evening trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_evening_round_trip",
+      "devText": "Evening round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_late_evening_trip",
+      "devText": "Late evening trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_late_evening_round_trip",
+      "devText": "Late evening round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_night_trip",
+      "devText": "Long night trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_night_round_trip",
+      "devText": "Long night round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_early_morning_trip",
+      "devText": "Long early morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_early_morning_round_trip",
+      "devText": "Long early morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_morning_trip",
+      "devText": "Long morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_morning_round_trip",
+      "devText": "Long morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_late_morning_trip",
+      "devText": "Long late morning trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_late_morning_round_trip",
+      "devText": "Long late morning round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_early_afternoon_trip",
+      "devText": "Long early afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_early_afternoon_round_trip",
+      "devText": "Long early afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_afternoon_trip",
+      "devText": "Long afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_afternoon_round_trip",
+      "devText": "Long afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_late_afternoon_trip",
+      "devText": "Long late afternoon trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_late_afternoon_round_trip",
+      "devText": "Long late afternoon round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_evening_trip",
+      "devText": "Long evening trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_evening_round_trip",
+      "devText": "Long evening round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_late_evening_trip",
+      "devText": "Long late evening trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "trip_title_long_late_evening_round_trip",
+      "devText": "Long late evening round trip at %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "time_of_trip",
+          "value": "%1$s",
+          "example": "15:30"
+        }
+      ]
+    },
+
+    {
+      "name": "settings_imprint",
+      "devText": "About us",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1582,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+
+    {
+      "name": "settings_privacy_policy",
+      "devText": "Data protection notes",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1582,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+
+    {
+      "name": "settings_open_source_disclaimer",
+      "devText": "Open Source Software Notice",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1582,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+
+    {
+      "name": "settings_software_version",
+      "devText": "Software Version %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1582,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "software_version",
+          "value": "%1$s",
+          "example": "1.0.0"
+        }
+      ]
+    },
+
+    {
+      "name": "settings_open_source_disclaimer_title",
+      "devText": "Open Source Software Notice",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1582,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+
+    {
+      "name": "settings_open_source_disclaimer_not_available_while_driving",
+      "devText": "For your safety, this function is not available while driving",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+
+    {
+      "name": "driver_event_list_item_hard_braking",
+      "devText": "Hard Braking",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_list_item_hard_braking_severe",
+      "devText": "Severe Braking",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_list_item_hard_acceleration",
+      "devText": "Hard Acceleration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_list_item_hard_acceleration_severe",
+      "devText": "Severe Acceleration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_list_item_harsh_cornering",
+      "devText": "Harsh Cornering",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_list_item_harsh_cornering_severe",
+      "devText": "Severe Cornering",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_list_item_seat_belt_unbuckled",
+      "devText": "Seat Belt Unbuckled",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "driver_event_list_item_unknown",
+      "devText": "Unknown event",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "settingsScreen_title",
+      "devText": "Settings",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "notificationScreen_settings",
+      "devText": "Settings",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "notificationScreen_please_grant_location_permissions_to_ensure_app_functionality",
+      "devText": "Please grant location permissions to ensure app functionality",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    }    ,
+    {
+      "name": "trip_viz_title",
+      "devText": "Trip visualization",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "trip_viz_info",
+      "devText": "The displayed GPS-track is an abstract visualization of your trip, based on your turns, coordinates, and time. It normalizes turns so that your route is always displayable from the left to the right and it shows when your events occurred relevant to the time and distance of the trip.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 822,
+          "maxLines": 7,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_start",
+      "devText": "Start",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "trip_details_screen_end",
+      "devText": "End",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 39
+        }
+      ]
+    },
+    {
+      "name": "challenge_last_completed_on",
+      "devText": "Last completed on",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "challenge_completed_during_last_trip",
+      "devText": "Completed during last trip",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "personalized_offer_message",
+      "devText": "This insurance might be of interest.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1710,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "rank_casual_driver_description_small_height",
+      "devText": "The Casual Driver is a laid-back traveler, enjoying his journey while focusing on getting to their destination in a timely manner",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "rank_comfortable_navigator_description_small_height",
+      "devText": "A Comfortable Navigator is a driver who ensures passengers are at ease throughout the ride.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "rank_attentive_chauffeur_description_small_height",
+      "devText": "The Attentive Chauffeur is a diligent and safety-conscious driver. Their commitment to safety makes them a reliable choice for any trip.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "rank_green_roller_description_small_height",
+      "devText": "The Green Roller is a driver with a gentle touch on the wheel, skillfully navigating the road with a focus on precision and safety.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "rank_cool_cruiser_description_small_height",
+      "devText": "Cool Cruisers bring a sense of style to the road. They handle their vehicle with grace and finesse, making driving look effortless.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "rank_smooth_operator_description_small_height",
+      "devText": "A Smooth Operator is the master of a fluid and seamless driving experience, ensuring a smooth and comfortable ride for all.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "app_name",
+      "devText": "My Driving Style",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consentScreen_accept",
+      "devText": "Accept",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consentScreen_decline",
+      "devText": "Decline",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consentScreen_not_now",
+      "devText": "Not now",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "loading",
+      "devText": "Loading...",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "loading_failed",
+      "devText": "Unable to retrieve document text",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "permissionsScreen_accept",
+      "devText": "Grant permission",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "permissionsScreen_exit_app",
+      "devText": "Exit app",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "locationPermissionScreen_explanation",
+      "devText": "The My Driving Style App requires access to your device\\'s GPS to accurately analyze your driving behavior and to provide key features such as challenges, driver analytics, and other gamification elements. This data is essential for ensuring the app functions as intended. Without location permission, these features cannot be enabled, and the app will not be usable.\\n\\nTo proceed, please grant the permission by following the click path:\\n\\nOpen Settings > Permissions > Location > Allow all the time > Return to App",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1400,
+          "maxLines": 10,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "notificationPermissionScreen_explanation",
+      "devText": "The My Driving Style App requires permission to notifications in order to keep you informed about important updates, relevant changes, and exclusive offerings. Enabling notifications ensures that the My Driving Style App works as intended and that you don’t miss out on key information related to your driving analytics and app features. Without this permission, you may not receive essential alerts.\\n\\nTo proceed, please grant the permission by following the click path:\\n\\nGrant Permission > Allow",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1400,
+          "maxLines": 10,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "notificationPermissionScreen_explanation2",
+      "devText": "The My Driving Style App requires permission to notifications in order to keep you informed about important updates, relevant changes, and exclusive offerings. Enabling notifications ensures that the My Driving Style App works as intended and that you don’t miss out on key information related to your driving analytics and app features. Without this permission, you may not receive essential alerts.\\n\\nTo proceed, please grant the permission by following the click path:\\n\\nOpen settings >  Activate Notification toggle",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1400,
+          "maxLines": 10,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "permissionsScreen_open_settings",
+      "devText": "Open settings",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 10,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consentScreen_error",
+      "devText": "Network error\\nClick here to retry",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consentScreen_title",
+      "devText": "Terms of use",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "settings_consent",
+      "devText": "Terms of use",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1561,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "permissionsScreen_title",
+      "devText": "Permission needed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "app_update_text",
+      "devText": "A new version of the My Driving Style app is now available on the App Store. You're welcome to continue using the current version, but we recommend updating to the latest version for the best experience and improved security.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "app_update_title",
+      "devText": "A new Version is Available!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "app_update_mandatory_text",
+      "devText": "To continue using the My Driving Style app, please install the latest version from the App Store.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "app_update_mandatory_title",
+      "devText": "Update required",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "appUpdateScreen_close",
+      "devText": "Close",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "appUpdateScreen_update_app_btn",
+      "devText": "Update application",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "users_name",
+      "devText": "%1$s's",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "user_name",
+          "value": "%1$s",
+          "example": "John"
+        }
+      ]
+    },
+    {
+      "name": "user_first_second_name",
+      "devText": "%1$s\\n%2$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "user_first_name",
+          "value": "%1$s",
+          "example": "John"
+        },
+        {
+          "name": "user_second_name",
+          "value": "%2$s",
+          "example": "Doe"
+        }
+      ]
+    },
+    {
+      "name": "score_service_notification_title",
+      "devText": "Driving score Service",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "score_service_notification_content",
+      "devText": "The Driving Score Service is currently active",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "system_notification_new_offer_available_title",
+      "devText": "New driving statistic available",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "system_notification_new_offer_available_message",
+      "devText": "Click to view details",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "trips_screen_empty_trip_list",
+      "devText": "No trips logged yet.\\nPlease complete a trip to view your trip details.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consent_screen_revoke_consent",
+      "devText": "Revoke consent",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "revoke_consent_popup_title",
+      "devText": "Confirmation",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 750,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "revoke_consent_popup_content",
+      "devText": "Revoking your consent will disable the functionality of the My Driving Style app, including the collection and analysis of your driving data.\\n\\nAre you sure you want to proceed with revoking your consent?",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 918,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "revoke_consent_popup_cancel",
+      "devText": "Cancel",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "notification_screen_dont_show_again",
+      "devText": "Close",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "notification_screen_view_later",
+      "devText": "View later",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "app_error_description",
+      "devText": "The app received critical error. To continue using it, please open settings and clear the app storage.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "text_blocking",
+      "devText": "For your safety, limited operation while driving.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "challenge_completed_on",
+      "devText": "%1$s ✓",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "challenge_date",
+          "value": "%1$s",
+          "example": "28.05.2023"
+        }
+      ]
+    },
+    {
+      "name": "offer_message",
+      "devText": "Do you already know the Audi insurance?\\nScan the QR-code and learn more online, or get more information by phone.\\nService-hotline %1$s %2$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1000,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "phone_number",
+          "value": "%1$s",
+          "example": "1234 5667889"
+        },
+        {
+          "name": "working_hours",
+          "value": "%2$s",
+          "example": "(Mo. to Fr. 8-18)"
+        }
+      ]
+    },
+    {
+      "name": "offer_title",
+      "devText": "You are a great driver!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 990,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "consent_screen_retry_bnt",
+      "devText": "Retry",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 787,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "consent_screen_close_btn",
+      "devText": "Close",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 787,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "consent_screen_error_message_first",
+      "devText": "A network error occurred. Please try again.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1638,
+          "maxLines": 7,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+
+    },
+    {
+      "name": "consent_screen_error_message_second",
+      "devText": "A network error occurred. Error code: %1$s.\nIf the problem continues, please contact customer support and provide this code.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1638,
+          "maxLines": 7,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "error_code",
+          "value": "%1$s",
+          "example": "1"
+        }
+      ]
+    },
+    {
+      "name": "initial_consent_title",
+      "devText": "Consents for using the app",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1710,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "initial_consent_first_paragraph",
+      "devText": "I hereby accept the aforementioned Terms of use for the use of the “My Driving Style” app.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1495,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "initial_consent_second_paragraph",
+      "devText": "I am aware, that my right of withdrawal expires prematurely when the contractual partner begins to fulfil the contract.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1495,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "initial_consent_clickable_text",
+      "devText": "Terms of use",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 990,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "initial_consent_popup_title",
+      "devText": "Terms of use",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1470,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "about_us_title",
+      "devText": "About us",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1590,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "about_us_content",
+      "devText": "Volkswagen Insurance Brokers GmbH\nRegistered Seat: Braunschweig\nRegistration Court: Amtsgericht Braunschweig\nCommercial Register No.: 100038\nExecutive Director: Thorsten Krüger, Armin Stückemann\nConcession Sec. 34d Abs. 1 German Trade, Commerce and Industry Regulation Act (GewO) (Insurance Brokerage)\nissued by Chamber of Industry and Commerce (IHK) Braunschweig, Brabandtstraße 11, 38100 Braunschweig\nInsurance Broking Register Number: D-RA0O-8H1NW-91\nwww.vermittlerregister.info\n\nCode of Professional Conduct:\n- Sec. 34d German Trade, Commerce and Industry Regulation Act (GewO)\n- Sec. 59-68 German Insurance Contract Act  (VVG)\n- German Insurance Broking Regulation (VersVermV)\n\nPrivacy Policy: https://www.vwfs.de/metaseiten/datenschutz.html.\n\nImportant Note: The above information is automatically added to this e-mail. This addition does not constitute a representation that the content of this e-mail is legally relevant and/or is intended to be legally binding upon Volkswagen Insurance Brokers GmbH.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1638,
+          "maxLines": 50,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "settings_advertisement_consent",
+      "devText": "Marketing preferences",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1582,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "advertisement_consent_screen_title",
+      "devText": "Marketing preferences",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1590,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "advertisement_consent_screen_text",
+      "devText": "As described in Section 2.2 of the General Terms  of Use  of the \"My Driving Style\" app and in Section 6 of our data protection notes, we would like to inform you about offers for selected services and products from us, our partners and other third parties (e.g. cooperation partners and companies from the following industries: banking, leasing,  Insurance and Mobility).\n\nBy deactivating Marketing, you object to the future display of direct marketing in the \"My Driving Style\" app. If you would like to receive offers for selected services and products from us, our partners, and other third parties (see section 6 of the data protection notes) that are customized for you, you can change this setting at any time",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1618,
+          "maxLines": 50,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "advertisement_consent_screen_toast_accepted",
+      "devText": "Marketing activated",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 562,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "advertisement_consent_screen_toast_declined",
+      "devText": "Marketing deactivated",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 562,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "advertisement_consent_screen_button_accept",
+      "devText": "Activate marketing",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1634,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "advertisement_consent_screen_button_revoke_consent",
+      "devText": "Deactivate marketing",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1634,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "download_button",
+      "devText": "Download",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 777,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "privacy_policy_popup_title",
+      "devText": "Download Data protection notes",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1470,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "privacy_policy_popup_content",
+      "devText": "Scan the QR code on the right with your phone to download the Data protection notes.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 481,
+          "maxLines": 10,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "consent_download_popup_title",
+      "devText": "Download Terms of use",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1470,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "consent_download_popup_content",
+      "devText": "Scan the QR code on the right with your phone to download the Terms of use",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 481,
+          "maxLines": 10,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "consent_dialog_title",
+      "devText": "Terms of use",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1470,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+
+    {
+      "name": "consent_notification_title",
+      "devText": "Action required:",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consent_notification_message",
+      "devText": "please open the app to keep using it",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "consent_screen_new_version_optional_title",
+      "devText": "Updated terms of use available",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1590,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "consent_screen_new_version_mandatory_title",
+      "devText": "Action required: Terms of use update",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1590,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "app_update_additional_info",
+      "devText": "If the update isn't available yet, please try again later.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1200,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High Light",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_title",
+      "devText": "Driving Statistics",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1590,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_placeholder",
+      "devText": "No data\nStart driving to get your score",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1590,
+          "maxLines": 5,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_total_distance",
+      "devText": "Total distance driven",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_total_duration",
+      "devText": "Total time driven",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_average_speed",
+      "devText": "Average speed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 332,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_unit_km",
+      "devText": "km",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_unit_hours",
+      "devText": "h",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_unit_minutes",
+      "devText": "m",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_unit_kmh",
+      "devText": "km/h",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_total_trips",
+      "devText": "Total amount of trips",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_perfect_trips",
+      "devText": "Perfect trips",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_longest_trip",
+      "devText": "Longest trip",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_last_trip_distance",
+      "devText": "Last trip distance",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_details",
+      "devText": "Score details",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_bad_trips",
+      "devText": "Score %2$d-%3$d - %1$d trips",
+      "placeholders": [
+        {
+          "name": "tripCount",
+          "value": "%1$d",
+          "example": "3"
+        },
+        {
+          "name": "scoreStart",
+          "value": "%2$d",
+          "example": "0"
+        },
+        {
+          "name": "scoreEnd",
+          "value": "%3$d",
+          "example": "69"
+        }
+      ],
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 328,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_medium_trips",
+      "devText": "Score %2$d-%3$d - %1$d trips",
+      "placeholders": [
+        {
+          "name": "tripCount",
+          "value": "%1$d",
+          "example": "5"
+        },
+        {
+          "name": "scoreStart",
+          "value": "%2$d",
+          "example": "70"
+        },
+        {
+          "name": "scoreEnd",
+          "value": "%3$d",
+          "example": "89"
+        }
+      ],
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 328,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_good_trips",
+      "devText": "Score %2$d-%3$d - %1$d trips",
+      "placeholders": [
+        {
+          "name": "tripCount",
+          "value": "%1$d",
+          "example": "10"
+        },
+        {
+          "name": "scoreStart",
+          "value": "%2$d",
+          "example": "90"
+        },
+        {
+          "name": "scoreEnd",
+          "value": "%3$d",
+          "example": "100"
+        }
+      ],
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 328,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_total_events",
+      "devText": "Total amount of events triggered",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 495,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_acceleration",
+      "devText": "Acceleration",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_breaking",
+      "devText": "Braking",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_cornering",
+      "devText": "Cornering",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_tab_overview",
+      "devText": "Overview",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 137,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_tab_details",
+      "devText": "Details",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 137,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_range_month",
+      "devText": "Month",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 171,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_range_year",
+      "devText": "Year",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 171,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_average_score",
+      "devText": "Average score",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_distance_driven",
+      "devText": "Distance driven",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_time_driven",
+      "devText": "Time driven",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 305,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "insurance_screen_title",
+      "devText": "Insurance",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1590,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "insurance_insurance_number_hint",
+      "devText": "Policy number",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 707,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "insurance_from_hint",
+      "devText": "Start date",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 301,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "insurance_to_hint",
+      "devText": "End date",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 301,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "insurance_report_claim_label",
+      "devText": "Claim hotline (24 hours)",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 366,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "insurance_customer_support_label",
+      "devText": "Customer support",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 366,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "insurance_details_saved",
+      "devText": "Insurance details saved",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1100,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "insurance_no_saved_details",
+      "devText": "No saved details",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1100,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "insurance_email_label",
+      "devText": "Email",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 389,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "insurance_save",
+      "devText": "Save",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 707,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "insurance_edit",
+      "devText": "Edit",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 707,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "insurance_add",
+      "devText": "Add insurance",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 707,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "tab_title_insurance",
+      "devText": "Insurance",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 200,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "event_details_duration_value",
+      "devText": "seconds",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 213,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "event_details_speed_value",
+      "devText": "%d km/h",
+      "placeholders": [
+        {
+          "name": "speed",
+          "value": "%d",
+          "example": "120"
+        }
+      ],
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 213,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "date_picker_select",
+      "devText": "Select",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 779,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "date_picker_title_start",
+      "devText": "Select start date",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 779,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "date_picker_title_end",
+      "devText": "Select end date",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 779,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_distance",
+      "devText": "km",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 204,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_event_distance",
+      "devText": "km",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 356,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_event_time_hours_and_mins",
+      "devText": "at %1$sh %2$s min",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 356,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "hours",
+          "value": "%1$s",
+          "example": "2"
+        },
+        {
+          "name": "minutes",
+          "value": "%2$s",
+          "example": "30"
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_event_time_mins",
+      "devText": "at %1$s min",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 356,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "minutes",
+          "value": "%1$s",
+          "example": "30"
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_g_force",
+      "devText": "g",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 204,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_hours",
+      "devText": "h ",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 102,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_minutes",
+      "devText": "m",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 102,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "trip_detail_speed",
+      "devText": "km/h",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 204,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "trips_screen_list_entry_details_second_version",
+      "devText": "%1$s events | ~ %2$s km | %3$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1373,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "number_of_events",
+          "value": "%1$s",
+          "example": "10"
+        },
+        {
+          "name": "number_of_km",
+          "value": "%2$s",
+          "example": "10"
+        },
+        {
+          "name": "trip_date",
+          "value": "%3$s",
+          "example": "10.03.2025"
+        }
+      ]
+    },
+    {
+      "name": "home_screen_monthly_score",
+      "devText": "Monthly score",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 474,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "overview_gauge_chart_empty_state_message",
+      "devText": "Start driving to\n get your score",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 280,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "guest_user_screen_title",
+      "devText": "Sign in required",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1710,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "guest_user_screen_message",
+      "devText": "You can't use this app while you're signed out.\nPlease sign in to myAudi account to continue.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1630,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+        "name": "trip_details_remove_dialog_title",
+        "devText": "Remove Trip Details",
+        "variants": [
+            {
+            "systemVariant": "AUDI_14_5",
+            "maxWidth": 750,
+            "maxLines": 1,
+            "fontName": "Audi Type Display High",
+            "fontSize": 36
+            }
+        ]
+    },
+    {
+      "name": "trip_details_remove_dialog_message",
+      "devText": "Do you want to remove details from trip title?",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 918,
+          "maxLines": 6,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "app_guestmode",
+      "devText": "You can't use this app while you're signed out.\n\nPlease sign in to myAudi account to continue.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1698,
+          "maxLines": 10,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "guestmode_title",
+      "devText": "Sign in required",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1710,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "generic_yes",
+      "devText": "Yes",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "generic_no",
+      "devText": "No",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 300,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 30
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_axis_label_score",
+      "devText": "Score",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 320,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_axis_label_months",
+      "devText": "Months",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 20
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_axis_label_days",
+      "devText": "Days",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 20
+        }
+      ]
+    }
+  ]
+}
