@@ -4375,6 +4375,1198 @@
           "fontSize": 20
         }
       ]
+    },
+    {
+      "name": "overview_no_active_challenges",
+      "devText": "Your active challenges will appear here",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 474,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "insurance_toast_saved",
+      "devText": "Insurance details saved",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1100,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "insurance_no_saved_details",
+      "devText": "No saved details",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1100,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_bar_trips_one",
+      "devText": "%d trip",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_bar_trips_other",
+      "devText": "%d trips",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "challenges_tab_active",
+      "devText": "Active",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 490,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_tab_recommended",
+      "devText": "Recommended",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 490,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_tab_all",
+      "devText": "All",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 490,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_plus_trophies",
+      "devText": "+ %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 140,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "trophy_plus_count",
+          "value": "+ %1$s",
+          "example": "+ 7"
+        }
+      ]
+    },
+    {
+      "name": "challenges_minus_trophies",
+      "devText": "- %1$s",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 140,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "trophy_minus_count",
+          "value": "- %1$s",
+          "example": "- 7"
+        }
+      ]
+    },
+    {
+      "name": "challenges_button_start",
+      "devText": "Start",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 932,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_button_restart",
+      "devText": "Restart",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 932,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_challenge_state_failed",
+      "devText": "Failed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 155,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_challenge_state_in_progress",
+      "devText": "In progress",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 155,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_challenge_state_completed",
+      "devText": "Completed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 155,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_no_active_challenges",
+      "devText": "No Active Challenges.\nStart your first challenge in the All or\nRecommended tab.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 700,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "driving_statistics_score_na",
+      "devText": "N/A",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 57
+        }
+      ]
+    },
+    {
+      "name": "challenge_minimalist",
+      "devText": "The minimalist",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_minimalist_description",
+      "devText": "Complete at least 10 trips in 1 week with maximum 1 driving event",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_minimalist_info",
+      "devText": "Complete at least 10 trips within 1 week while keeping your total driving events to no more than 1. Enjoy a near-flawless week of smooth driving!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_rising_star",
+      "devText": "Rising star",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_rising_star_description",
+      "devText": "Improve or equal your trip score 3/5/8 times in a row.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_rising_star_info",
+      "devText": "Improve or match your previous trip score 3/5/8 times consecutively. Each qualifying trip must be at least 1 km long.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_city_smooth_operator",
+      "devText": "City Smooth Operator",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_city_smooth_operator_description",
+      "devText": "Drive under 60 km/h with zero hard acceleration for 30/60/90 minutes!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_city_smooth_operator_info",
+      "devText": "Maintain a smooth streak driving below 60 km/h with zero hard acceleration for 30/60/90 minutes depending on your level. Stay focused!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_highway_star",
+      "devText": "Highway Star",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_highway_star_description",
+      "devText": "Drive above 80 km/h with zero events for 30/60/90 min.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_highway_star_info",
+      "devText": "Build a smooth driving streak above 80 km/h lasting 30/60/90 minutes total per level. Any driving event resets your streak within a minute.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_night_owl",
+      "devText": "Night Owl",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_night_owl_description",
+      "devText": "Complete 3 night trips of 20+ min with a score of 80/90/100.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_night_owl_info",
+      "devText": "Complete 3 nighttime trips between 22:00 and 05:00 lasting at least 20 minutes each. Meet score requirements of 80/90/100.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_long_hauler",
+      "devText": "Long Hauler",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_long_hauler_description",
+      "devText": "Complete 2 trips of at least 60/90/120 minutes each with a score above 90.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_long_hauler_info",
+      "devText": "Complete 2 extended trips lasting 60/90/120 minutes each with a driving score above 90. Maintain steady focus throughout!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_early_bird",
+      "devText": "Early Bird",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_early_bird_description",
+      "devText": "Complete 5/7/10 consecutive morning trips (05:00-10:00) with score 80/90/100.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_early_bird_info",
+      "devText": "Complete 5/7/10 consecutive morning trips between 05:00 and 10:00, with each trip achieving a score of 80/90/100. Drive safely!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_early_bird_champion",
+      "devText": "Early Bird Champion",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_early_bird_champion_description",
+      "devText": "Complete 3/5/7 consecutive morning trips with a score of 95+.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_early_bird_champion_info",
+      "devText": "Complete 3/5/7 morning trips in a row between 05:00 and 10:00, with each trip achieving a high score of at least 95.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_clean_sheet",
+      "devText": "Clean Sheet",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_clean_sheet_description",
+      "devText": "Complete 3/5/7 flawless trips with a score of 100 in a single day.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_clean_sheet_info",
+      "devText": "Complete 3/5/7 flawless trips in one day with a perfect driving score of 100 for each trip. Achieve ultimate precision!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+
+    {
+      "name": "challenge_delivery_hero",
+      "devText": "Delivery Hero",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_hero_description",
+      "devText": "Complete 5/7/10 short trips with a driving score of 80 or more in a single day.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_hero_info",
+      "devText": "Complete 5/7/10 short trips (up to 5 km or 5 minutes) with a driving score of 80 or higher in a single day.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_rush_hour_hero",
+      "devText": "Rush Hour Hero",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_rush_hour_hero_description",
+      "devText": "Complete 6 rush hour trips with a score of 80/90/100.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_rush_hour_hero_info",
+      "devText": "Complete 6 rush-hour trips (3 morning and 3 afternoon between 06:30-09:00 or 16:00-18:30) with score targets of 80/90/100.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_school_bus",
+      "devText": "School Bus",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_school_bus_description",
+      "devText": "Complete 10 clean trips with no harsh braking or acceleration!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_school_bus_info",
+      "devText": "Drive safely through September without any harsh braking or acceleration events. Complete 10 clean trips to finish the challenge.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_straight_a_driver",
+      "devText": "Straight-A Driver",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_straight_a_driver_description",
+      "devText": "Maintain a score of 85 or higher for 5 trips in a row!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_straight_a_driver_info",
+      "devText": "Achieve 5 consecutive trips with a score of 85 or more. One low score will reset your active streak, so stay focused on every single trip!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_top_of_the_class",
+      "devText": "Top of the Class",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_top_of_the_class_description",
+      "devText": "Reach a high monthly score of 95 or more!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_top_of_the_class_info",
+      "devText": "Drive with great care all month long. Your goal is to achieve an overall monthly driving score of at least 95 for September.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_perfect_attendance",
+      "devText": "Perfect Attendance",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_perfect_attendance_description",
+      "devText": "Score 80 or higher on every school day!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_perfect_attendance_info",
+      "devText": "Complete at least one good trip with a score of 80 or above every single school day. One qualifying trip per day is all you need!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_santas_co_pilot",
+      "devText": "Santa’s Co-Pilot",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_santas_co_pilot_description",
+      "devText": "Zero severe events from Dec 20 to 26!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_santas_co_pilot_info",
+      "devText": "Complete holiday trips from December 20 to 26 without any severe driving events. Stay safe and enjoy your festive travels!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_fresh_start",
+      "devText": "Fresh Start",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_fresh_start_description",
+      "devText": "Improve your monthly driving score or reach 80!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_fresh_start_info",
+      "devText": "Start the year right by improving your score compared to last month. New drivers need to reach a monthly score above 80.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_weekend_vibe",
+      "devText": "Weekend Vibe",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_weekend_vibe_description",
+      "devText": "Complete 2/4/6 event-free weekend trips.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_weekend_vibe_info",
+      "devText": "Complete 2/4/6 clean trips without any bad driving events over the weekend. Only event-free trips count toward your goal, so relax and take it easy!",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_champion",
+      "devText": "Delivery Champion",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_champion_description",
+      "devText": "Complete 25/35/50 weekly trips with a score of 80+.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_champion_info",
+      "devText": "Complete 25/35/50 trips with a score of 80 or higher during week. Lower scores do not fail your challenge.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_legend",
+      "devText": "Delivery Legend",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 37
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_legend_description",
+      "devText": "Finish 100/150/200 trips with an 80+ score during month.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 611,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_delivery_legend_info",
+      "devText": "Complete 100/150/200 trips this month with a score of 80 or more. Trips below the threshold simply do not count.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 950,
+          "maxLines": 3,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_included",
+      "devText": "included",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_activated",
+      "devText": "Activated",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1074,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_completed",
+      "devText": "Completed",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1074,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_earned_label",
+      "devText": "Earned",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 150,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_spent_label",
+      "devText": "Spent",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 150,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_current_balance",
+      "devText": "Current balance",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 202,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_season_name",
+      "devText": "Season",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 172,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 23
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_go_to_challenges",
+      "devText": "Go to challenges",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 465,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_balance_header_title",
+      "devText": "Your current balance:",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_season_earned",
+      "devText": "Earned: %1$d",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 182,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "earned_trophy_count",
+          "value": "%1$d",
+          "example": "7"
+        }
+      ]
+    },
+    {
+      "name": "tab_title_trophies",
+      "devText": "Trophies",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 474,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "event_details_location",
+      "devText": "Location",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 469,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "event_location_unknown",
+      "devText": "Unknown",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 469,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
     }
   ]
 }
