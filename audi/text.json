@@ -1,9 +1,9 @@
 {
-  "version": "4.4.4",
+  "version": "4.6.0",
   "meta": {
     "project": {
       "project": "HCP3",
-      "cluster": "CL48",
+      "cluster":["CL48"],
       "brand": "AUDI"
     },
     "app": {
@@ -5563,6 +5563,248 @@
           "systemVariant": "AUDI_14_5",
           "maxWidth": 469,
           "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_total",
+      "devText": "Total: %1$d",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 800,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "trophy_balance_count",
+          "value": "%1$d",
+          "example": "125"
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_level",
+      "devText": ": level %1$d",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 500,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "trophy_balance_level_number",
+          "value": "%1$d",
+          "example": "2"
+        }
+      ]
+    },
+    {
+      "name": "challenges_trophies_empty",
+      "devText": "No challenges yet. Start your first challenge from the ‘All’ or ‘Recommended’ tab",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1000,
+          "maxLines": 2,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_progress_days_left",
+      "devText": "%1$d days left",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 400,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ],
+      "placeholders": [
+        {
+          "name": "days_left_in_current_month",
+          "value": "%1$d",
+          "example": "25"
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_title",
+      "devText": "Filter",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 711,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_type",
+      "devText": "Type",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 643,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_difficulty",
+      "devText": "Difficulty",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 643,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_type_regular",
+      "devText": "Regular",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 643,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_type_seasonal",
+      "devText": "Seasonal",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 643,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_difficulty_level_one",
+      "devText": "Level 1",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 643,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_difficulty_level_two",
+      "devText": "Level 2",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 643,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_difficulty_level_three",
+      "devText": "Level 3",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 643,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 36
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_clearall",
+      "devText": "Clear all",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 322,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenge_filter_apply",
+      "devText": "Apply",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 322,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "trophy_balance_empty",
+      "devText": "No trophy transactions yet",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 2637,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_bonus_trophies",
+      "devText": "bonus",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 600,
+          "maxLines": 1,
+          "fontName": "Audi Type Display High",
+          "fontSize": 28
+        }
+      ]
+    },
+    {
+      "name": "challenges_no_trophies_available",
+      "devText": "Complete a few starter challenges in All tab to earn your first trophies and access exclusive seasonal challenges with higher rewards.",
+      "variants": [
+        {
+          "systemVariant": "AUDI_14_5",
+          "maxWidth": 1603,
+          "maxLines": 2,
           "fontName": "Audi Type Display High",
           "fontSize": 36
         }
